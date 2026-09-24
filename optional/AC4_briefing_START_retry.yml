@@ -1,0 +1,26 @@
+Version: 1.2
+PPU-706cbe20a07e41fae412eddce046cb3df7ba7b1d:
+  AC4 briefing START skip retry (experimental):
+    Games:
+      ARMORED CORE4:
+        BLJM60012: ['All']
+    Author: Local AC4 investigation
+    Patch Version: 0.1
+    Notes: Retry the native guarded movie-stop request after explicit SimpleBriefingPlayer skip index 9999. Does not force scene completion or bypass decoder guards. Experimental; next boot; requires playback verification.
+    Patch:
+      - [be32, 0x00935e08, 0x484821f9]
+      - [be32, 0x00db8000, 0xf821ff81]
+      - [be32, 0x00db8004, 0x7c0802a6]
+      - [be32, 0x00db8008, 0xf8010090]
+      - [be32, 0x00db800c, 0x4bb51ff1]
+      - [be32, 0x00db8010, 0x801d0258]
+      - [be32, 0x00db8014, 0x2f80270f]
+      - [be32, 0x00db8018, 0x409e0014]
+      - [be32, 0x00db801c, 0x807d0000]
+      - [be32, 0x00db8020, 0x2fa30000]
+      - [be32, 0x00db8024, 0x419e0008]
+      - [be32, 0x00db8028, 0x4bb5145d]
+      - [be32, 0x00db802c, 0xe8010090]
+      - [be32, 0x00db8030, 0x38210080]
+      - [be32, 0x00db8034, 0x7c0803a6]
+      - [be32, 0x00db8038, 0x4e800020]

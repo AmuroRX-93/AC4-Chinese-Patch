@@ -1,0 +1,50 @@
+{
+  "release": "2026.09.25-delta.2",
+  "game": "BLJM60012",
+  "base_files": 275,
+  "optional_update_files": 1,
+  "delta_payloads": 520,
+  "reconstructed_all_payloads": true,
+  "installer_unit_tests": 19,
+  "delta_decoder_tests": 5,
+  "real_resource_tests": {
+    "tests": [
+      {
+        "baseline": "original",
+        "installed": 276,
+        "target_files": 276,
+        "install": true,
+        "repeat": true,
+        "restore": true,
+        "seconds": 7.67
+      },
+      {
+        "baseline": "2026.09.15-delta.1",
+        "installed": 263,
+        "target_files": 276,
+        "install": true,
+        "repeat": true,
+        "restore": true,
+        "seconds": 8.43
+      },
+      {
+        "baseline": "2026.09.24-local-final",
+        "installed": 2,
+        "target_files": 276,
+        "install": true,
+        "repeat": true,
+        "restore": true,
+        "seconds": 1.47
+      }
+    ],
+    "platform": "darwin",
+    "game_started": false,
+    "process_guard_bypassed_for_isolated_fixtures_only": true
+  },
+  "chapters": 6,
+  "chapter_native_archive_members_verified": true,
+  "runtime_tested": false,
+  "windows_tested": false,
+  "linux_tested": false,
+  "ps3_hardware_tested": false
+}

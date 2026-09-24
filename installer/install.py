@@ -98,7 +98,7 @@ def load(package):
 
 
 def payload_check(package, m):
-    rows = [part for r in m['base'] + m['update'] for part in r['segments']]
+    rows = [part for r in m['base'] + m['update'] for variant in [r] + r.get('alternatives', []) for part in variant['segments']]
     for i, r in enumerate(rows):
         p = safe(package, r['payload'])
         if digest(p) != r['patch_sha256'] or p.stat().st_size != r['patch_size']:
@@ -144,10 +144,12 @@ def plan(package, m, roots):
         if sha == r['sha256'] and p.stat().st_size == r['size']:
             already += 1
             continue
-        valid = p.stat().st_size == r['original_size'] and sha == r['original_sha256']
-        if not valid:
+        variant = next((v for v in [r] + r.get('alternatives', [])
+                        if p.stat().st_size == v['original_size'] and sha == v['original_sha256']), None)
+        if variant is None:
             raise ValueError('资源版本不受支持，未写入任何游戏文件：' + str(p))
-        changes.append(dict(scope=scope, row=r, old_sha256=sha, old_size=p.stat().st_size))
+        selected_row = dict(r, **{k: variant[k] for k in ('original_size', 'original_sha256', 'segments')})
+        changes.append(dict(scope=scope, row=selected_row, old_sha256=sha, old_size=p.stat().st_size))
     print('检查通过：需更新 %d 个文件，已有本版 %d 个文件。' % (len(changes), already), flush=True)
     return changes
 
@@ -376,7 +378,7 @@ def main():
     parser.add_argument('--restore', type=Path, help='含 restore.json 的备份文件夹')
     args = parser.parse_args()
     if not any((args.game, args.restore)):
-        print('装甲核心 4 差分汉化包 2026.09.15-delta.1\n1 安装汉化\n2 只检查、不安装\n3 恢复安装前资源')
+        print('装甲核心 4 差分汉化包 2026.09.25-delta.2\n1 安装汉化\n2 只检查、不安装\n3 恢复安装前资源')
         mode = input('请选择 1/2/3：').strip()
         if mode == '3':
             selected = choose('选择含 restore.json 的汉化备份文件夹')

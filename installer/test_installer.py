@@ -161,6 +161,22 @@ class InstallerTest(unittest.TestCase):
             dest=new/p.relative_to(self.game) if self.game in p.parents else p
             self.assertEqual(dest.read_bytes(),data)
 
+    def test_known_previous_release_upgrade(self):
+        row=self.m['base'][0];previous=b'previous Chinese release'
+        current=b'translated '+row['path'].encode();delta=bsdiff4.diff(previous,current)
+        put(self.pkg,'payload/upgrade.bsdiff',delta)
+        row['alternatives']=[dict(original_size=len(previous),original_sha256=sha(previous),segments=[dict(payload='payload/upgrade.bsdiff',old_offset=0,old_size=len(previous),output_offset=0,size=len(current),sha256=sha(current),patch_size=len(delta),patch_sha256=sha(delta))])]
+        self.target.write_bytes(previous);self.initial[self.target]=previous
+        backup=self.install();self.assertEqual(self.target.read_bytes(),current)
+        ac.restore(backup);self.unchanged()
+
+    def test_upgrade_payload_corruption(self):
+        row=self.m['base'][0];previous=b'previous release';delta=bsdiff4.diff(previous,b'translated '+row['path'].encode())
+        put(self.pkg,'payload/upgrade.bsdiff',b'corrupt')
+        row['alternatives']=[dict(original_size=len(previous),original_sha256=sha(previous),segments=[dict(payload='payload/upgrade.bsdiff',patch_size=len(delta),patch_sha256=sha(delta))])]
+        with self.assertRaisesRegex(ValueError,'损坏'):self.install()
+        self.unchanged()
+
     def test_sudden_exit_recovery(self):
         (self.root/'fixture.json').write_text(json.dumps(self.m))
         script='''import install as ac,json,os,pathlib,sys
