@@ -378,7 +378,7 @@ def main():
     parser.add_argument('--restore', type=Path, help='含 restore.json 的备份文件夹')
     args = parser.parse_args()
     if not any((args.game, args.restore)):
-        print('装甲核心 4 差分汉化包 2026.09.25-delta.2\n1 安装汉化\n2 只检查、不安装\n3 恢复安装前资源')
+        print('装甲核心 4 差分汉化包 2026.09.25-delta.3\n1 安装汉化\n2 只检查、不安装\n3 恢复安装前资源')
         mode = input('请选择 1/2/3：').strip()
         if mode == '3':
             selected = choose('选择含 restore.json 的汉化备份文件夹')

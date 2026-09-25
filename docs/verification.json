@@ -1,13 +1,25 @@
 {
-  "release": "2026.09.25-delta.2",
-  "game": "BLJM60012",
-  "base_files": 275,
-  "optional_update_files": 1,
-  "delta_payloads": 520,
-  "reconstructed_all_payloads": true,
-  "installer_unit_tests": 19,
-  "delta_decoder_tests": 5,
-  "real_resource_tests": {
+  "delta-verification.json": {
+    "release": "2026.09.25-delta.3",
+    "changed": [
+      {
+        "path": "PS3_GAME/USRDIR/menu/debriefing.tpf",
+        "variants": 2
+      },
+      {
+        "path": "PS3_GAME/USRDIR/menu/debriefing.drb",
+        "variants": 3
+      },
+      {
+        "path": "PS3_GAME/USRDIR/bind/menu/debriefing.000",
+        "variants": 3
+      }
+    ],
+    "upgrade_files": 3,
+    "full_files": 276,
+    "all_new_deltas_reconstructed": true
+  },
+  "real-installer-verification.json": {
     "tests": [
       {
         "baseline": "original",
@@ -16,7 +28,7 @@
         "install": true,
         "repeat": true,
         "restore": true,
-        "seconds": 7.67
+        "seconds": 7.92
       },
       {
         "baseline": "2026.09.15-delta.1",
@@ -25,26 +37,218 @@
         "install": true,
         "repeat": true,
         "restore": true,
-        "seconds": 8.43
+        "seconds": 8.56
       },
       {
-        "baseline": "2026.09.24-local-final",
-        "installed": 2,
+        "baseline": "2026.09.25-delta.2",
+        "installed": 3,
         "target_files": 276,
         "install": true,
         "repeat": true,
         "restore": true,
-        "seconds": 1.47
+        "seconds": 0.92
       }
     ],
     "platform": "darwin",
     "game_started": false,
     "process_guard_bypassed_for_isolated_fixtures_only": true
   },
-  "chapters": 6,
-  "chapter_native_archive_members_verified": true,
-  "runtime_tested": false,
-  "windows_tested": false,
-  "linux_tested": false,
-  "ps3_hardware_tested": false
+  "upgrade-installer-verification.json": {
+    "tests": [
+      {
+        "baseline": "2026.09.25-delta.2",
+        "installed": 3,
+        "target_files": 3,
+        "install": true,
+        "repeat": true,
+        "restore": true,
+        "seconds": 0.59
+      }
+    ],
+    "platform": "darwin",
+    "game_started": false,
+    "process_guard_bypassed_for_isolated_fixtures_only": true
+  },
+  "result-text-audit.json": {
+    "labels": [
+      {
+        "shape": 14,
+        "text": "任务报告",
+        "width": 94,
+        "box_width": 214,
+        "font": 4
+      },
+      {
+        "shape": 16,
+        "text": "任务报酬",
+        "width": 94,
+        "box_width": 118,
+        "font": 5
+      },
+      {
+        "shape": 18,
+        "text": "C",
+        "width": 18,
+        "box_width": 118,
+        "font": 5
+      },
+      {
+        "shape": 20,
+        "text": "损伤（AP）",
+        "width": 130,
+        "box_width": 146,
+        "font": 4
+      },
+      {
+        "shape": 21,
+        "text": "预计－实际",
+        "width": 107.1,
+        "box_width": 172,
+        "font": 6
+      },
+      {
+        "shape": 22,
+        "text": "费用单价",
+        "width": 86.4,
+        "box_width": 99,
+        "font": 6
+      },
+      {
+        "shape": 23,
+        "text": "收支",
+        "width": 43.2,
+        "box_width": 68,
+        "font": 6
+      },
+      {
+        "shape": 25,
+        "text": "弹药消耗",
+        "width": 93,
+        "box_width": 146,
+        "font": 4
+      },
+      {
+        "shape": 27,
+        "text": "收支",
+        "width": 43.2,
+        "box_width": 68,
+        "font": 6
+      },
+      {
+        "shape": 29,
+        "text": "用时（秒）",
+        "width": 120,
+        "box_width": 146,
+        "font": 4
+      },
+      {
+        "shape": 30,
+        "text": "预计－实际",
+        "width": 107.1,
+        "box_width": 172,
+        "font": 6
+      },
+      {
+        "shape": 31,
+        "text": "奖金",
+        "width": 43.2,
+        "box_width": 76,
+        "font": 6
+      },
+      {
+        "shape": 32,
+        "text": "收支",
+        "width": 43.2,
+        "box_width": 68,
+        "font": 6
+      },
+      {
+        "shape": 35,
+        "text": "/AP",
+        "width": 40.5,
+        "box_width": 51,
+        "font": 6
+      },
+      {
+        "shape": 37,
+        "text": "C",
+        "width": 16.2,
+        "box_width": 21,
+        "font": 6
+      },
+      {
+        "shape": 40,
+        "text": "C",
+        "width": 16.2,
+        "box_width": 21,
+        "font": 6
+      },
+      {
+        "shape": 43,
+        "text": "/秒",
+        "width": 30.6,
+        "box_width": 76,
+        "font": 6
+      },
+      {
+        "shape": 45,
+        "text": "C",
+        "width": 16.2,
+        "box_width": 21,
+        "font": 6
+      },
+      {
+        "shape": 46,
+        "text": "总收支",
+        "width": 72,
+        "box_width": 216,
+        "font": 5
+      },
+      {
+        "shape": 48,
+        "text": "C",
+        "width": 18,
+        "box_width": 26,
+        "font": 5
+      },
+      {
+        "shape": 49,
+        "text": "评级",
+        "width": 48,
+        "box_width": 89,
+        "font": 5
+      },
+      {
+        "shape": 51,
+        "text": "按下",
+        "width": 47,
+        "box_width": 90,
+        "font": 4
+      },
+      {
+        "shape": 52,
+        "text": "键",
+        "width": 24,
+        "box_width": 90,
+        "font": 4
+      }
+    ],
+    "revised_literals": 6,
+    "runtime_tested": false
+  },
+  "archive-verification.json": [
+    {
+      "archive": "bind/menu/debriefing.000",
+      "verified_members": 2,
+      "changed_members": [
+        "menu/debriefing.drb",
+        "menu/debriefing.tpf"
+      ],
+      "before_uncompressed": 2488832,
+      "after_uncompressed": 2488880
+    }
+  ],
+  "installer_tests_passed": 19,
+  "decoder_tests_passed": 5,
+  "runtime_tested": false
 }
