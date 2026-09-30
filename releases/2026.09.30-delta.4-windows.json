@@ -1,0 +1,7 @@
+{
+  "name": "AC4_CN_FullPatch_2026.09.30-delta.4_BLJM60012_Windows_x64.zip",
+  "size": 45444858,
+  "sha256": "f38691e245f1505c94336b498ec2dd5ca7311b3e26c0f209d69a2a862733385d",
+  "files": 645,
+  "verification": "All preserved payloads and code identical to verified universal package; platform documentation and SHA256SUMS adjusted; full archive read-back passed."
+}

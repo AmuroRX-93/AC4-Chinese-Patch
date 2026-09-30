@@ -10,7 +10,12 @@
 
 ## 下载
 
-在 [本版发布页](https://github.com/AmuroRX-93/AC4-Chinese-Patch/releases/tag/v2026.09.30-delta.4) 下载 **AC4_CN_FullPatch_2026.09.30-delta.4_BLJM60012.zip**。
+在 [本版发布页](https://github.com/AmuroRX-93/AC4-Chinese-Patch/releases/tag/v2026.09.30-delta.4) 下载：
+
+- Windows x64：**AC4_CN_FullPatch_2026.09.30-delta.4_BLJM60012_Windows_x64.zip**，约45 MB，内置 Windows Python。
+- 全平台：**AC4_CN_FullPatch_2026.09.30-delta.4_BLJM60012.zip**，约126 MB，另含 Apple/Intel Mac Python。全平台文件以发行页附件是否已上传为准。
+
+两包汉化与修复内容相同，Windows 小包仅省去 Mac 运行环境。
 Code → Download ZIP 只有源代码，不含差分数据和 Python 运行环境。
 本包不含游戏本体、游戏可执行文件、固件、密钥或存档。
 
