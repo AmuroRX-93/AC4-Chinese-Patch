@@ -1,0 +1,8 @@
+{
+  "format": "ac4-cumulative-1",
+  "release": "2026.09.30-delta.4",
+  "base_manifest_sha256": "190becd49596e8410a10feaf627b0bf250b08b6f8c2549c8e50ecbba5b583100",
+  "font_manifest_sha256": "d1d1adf3d0fdfec808fb02051cf7b579b65174a11b84fa0727600ccc4a53703b",
+  "repair_schema_sha256": "f05287a59b07cc429fb8a805d94dee173287bb38885eddba306b95f81fa67122",
+  "runtime_tested": false
+}

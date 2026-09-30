@@ -1,0 +1,28 @@
+{
+  "release": "2026.09.30-delta.4",
+  "base_release": "2026.09.25-delta.3",
+  "font_release": "2026.09.25-sourcehan-sans.1",
+  "repair_release": "2026.09.30-regulation-experimental.1",
+  "base_resource_count": 275,
+  "font_changed_resources": 42,
+  "game_runtime_verified": false,
+  "mac_arm64_bundled_python": true,
+  "windows_runtime_executed": false,
+  "mac_intel_runtime_executed": false,
+  "cumulative_fixture_tests": 8,
+  "cumulative_tests": [
+    "original install/repeat/restore",
+    "delta.1 upgrade/repeat/restore",
+    "delta.2 upgrade/repeat/restore",
+    "delta.3 upgrade/repeat/restore",
+    "SourceHan base plus Japanese update repair/repeat/restore",
+    "invalid update prevents all writes",
+    "unknown final base resource prevents all writes",
+    "custom compatible regulation numeric preservation/restore"
+  ],
+  "all_final_base_targets_match_sourcehan_manifest": true,
+  "shared_repair_code_unchanged": true,
+  "inherited_repair_fixture_tests": 13,
+  "save_files_modified": false,
+  "reported_player_issue_reproduced": false
+}
