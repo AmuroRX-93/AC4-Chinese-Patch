@@ -1,0 +1,82 @@
+{
+  "game": "AC4 BLJM60012",
+  "mission": "m490 / SEED A HOSTILE EARTH",
+  "stage": "offline_checked_release_candidate",
+  "nonempty_translated_fmg_entries": 93,
+  "changes": [
+    {
+      "message": 4907193,
+      "text_before": 0,
+      "text_after": 4907193,
+      "sound_unchanged": 4907193,
+      "tail_frames_unchanged": 30,
+      "translation": "重来一次吧，一起",
+      "offset": 2552
+    },
+    {
+      "message": 4900950,
+      "text_before": 0,
+      "text_after": 4900190,
+      "sound_unchanged": 4900190,
+      "tail_frames_unchanged": 30,
+      "translation": "喂，听得见吗？",
+      "offset": 2632
+    },
+    {
+      "message": 4900960,
+      "text_before": 0,
+      "text_after": 4900191,
+      "sound_unchanged": 4900191,
+      "tail_frames_unchanged": 30,
+      "translation": "大家，都没事",
+      "offset": 2648
+    },
+    {
+      "message": 4900970,
+      "text_before": 0,
+      "text_after": 4900192,
+      "sound_unchanged": 4900192,
+      "tail_frames_unchanged": 30,
+      "translation": "……抱歉",
+      "offset": 2664
+    },
+    {
+      "message": 4900980,
+      "text_before": 0,
+      "text_after": 4900193,
+      "sound_unchanged": 4900193,
+      "tail_frames_unchanged": 30,
+      "translation": "谢谢你",
+      "offset": 2680
+    },
+    {
+      "message": 4905190,
+      "text_before": 0,
+      "text_after": 4900190,
+      "sound_unchanged": 4905190,
+      "tail_frames_unchanged": 30,
+      "translation": "喂，听得见吗？",
+      "offset": 2696
+    }
+  ],
+  "files": [
+    {
+      "path": "text/mission/m490.emtm",
+      "before_sha256": "4990c4b1bf8451ffa952a9b43e4c5f7c044ff2dbe0fd65e63cf6569e1944f377",
+      "after_sha256": "da3eb5b10012e63e9a6b0aabb0d2d75c033ba50141414715acfb34fe8c1b35a6",
+      "size": 3361
+    },
+    {
+      "path": "bind/world/m490_event.000",
+      "before_sha256": "3d6d99cd4eb03de8c93f02fafc3a5c24d90ea89cdeea4545456cee4c12af230b",
+      "after_sha256": "83982312616a3350af62e05b68db4f7d621b85ddac01c0d2b539b99881a05c2c",
+      "size": 8669
+    }
+  ],
+  "pending": [],
+  "no_audio_or_timing_or_script_changes": true,
+  "unrelated_archive_members_identical": true,
+  "installed": false,
+  "runtime_verified": false,
+  "subtitle_rendering_runtime_verified": false
+}

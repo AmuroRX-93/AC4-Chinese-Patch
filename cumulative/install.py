@@ -8,14 +8,14 @@ apply=repair.apply
 path_input=repair.path_input
 
 def main():
- ap=argparse.ArgumentParser(description='AC4 累计汉化 delta.4：思源黑体与实验性规制修复')
+ ap=argparse.ArgumentParser(description='AC4 累计汉化 delta.5：最终关字幕、片尾中文字幕、思源黑体与实验性规制修复')
  ap.add_argument('--game',type=Path);ap.add_argument('--rpcs3',type=Path,help='含 dev_hdd0/dev_hdd1 的实际 RPCS3 数据目录')
  ap.add_argument('--hdd0',type=Path);ap.add_argument('--hdd1',type=Path)
  ap.add_argument('--check-only',action='store_true');ap.add_argument('--restore',type=Path);ap.add_argument('--install',action='store_true')
  a=ap.parse_args()
  if a.restore:restore(a.restore);return
  if not a.game:
-  print('AC4 累计汉化 delta.4\n1 安装汉化及修复\n2 只检查\n3 恢复\n导入老存档前务必备份；本工具不修改存档。')
+  print('AC4 累计汉化 delta.5\n1 安装汉化及修复\n2 只检查\n3 恢复\n导入老存档前务必备份；本工具不修改存档。')
   mode=input('选择 1/2/3：').strip()
   if mode=='3':restore(path_input('选择含 repair.json 或 restore.json 的备份目录'));return
   e.require(mode in ('1','2'),'未选择操作');a.check_only=mode=='2'

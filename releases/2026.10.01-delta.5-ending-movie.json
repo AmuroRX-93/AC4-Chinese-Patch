@@ -1,0 +1,17 @@
+{
+  "source_sha256": "1759923ab60f1e3e2810419a39bd82c8286a23a6b21205fb1d77b0a446714507",
+  "candidate_sha256": "d6cb0be39e733f16c023ff4cc194adfec8742c71ba6dc75d8eca4e35c4c7862d",
+  "size": 712337408,
+  "picture_count": 5351,
+  "replaced_coded_picture_range": [
+    4585,
+    5233
+  ],
+  "changed_video_packets": 1811,
+  "all_nonvideo_bytes_identical": true,
+  "all_picture_boundaries_preserved": true,
+  "all_PES_timestamps_and_PAMF_index_preserved": true,
+  "picture_order_and_temporal_references_match": true,
+  "unchanged_video_before_and_after": true,
+  "runtime_verified": false
+}
