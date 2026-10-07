@@ -1,3 +1,11 @@
+<!-- latest-release-20261007 -->
+## 最新正式发布（2026-10-07）
+
+[AC4 中文 delta.5 安装器修复正式版](https://github.com/AmuroRX-93/AC4-Chinese-Patch/releases/tag/v2026.10.07-delta.5-hotfix.1)
+
+游戏资源保持 delta.5，包含既有结局字幕与汉化影片。本次修复安装器隔离启动与工作目录问题，完整包已包含修复，无需叠加小修复。已通过 macOS 离线启动检查；Windows 启动尚未实机验证。
+<!-- /latest-release-20261007 -->
+
 # AC4 累计汉化差分包 · delta.5
 
 > 作者声明：仅限个人非商业使用；可免费分享官方仓库链接，禁止二次传播补丁文件。请认准 AmuroRX-93。
