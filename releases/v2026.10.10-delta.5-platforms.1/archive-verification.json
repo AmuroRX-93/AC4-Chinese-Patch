@@ -1,0 +1,9 @@
+{
+  "file": "AC4_CN_FullPatch_20261010_delta5_ThreePlatforms_BLJM60012.zip",
+  "bytes": 260594998,
+  "sha256": "650c095b17bd83354640ee115a22e93b8fe291a70911f82ba14c56b72b018a43",
+  "zip_crc_passed": true,
+  "fresh_macos_arm64_doctor": true,
+  "fresh_all_files_sha256_verified": true,
+  "game_runtime_tested": false
+}

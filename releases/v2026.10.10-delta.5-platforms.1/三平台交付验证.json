@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "command": "entry doctor",
+      "returncode": 0
+    },
+    {
+      "command": "installer help",
+      "returncode": 0
+    },
+    {
+      "command": "entry cancel",
+      "returncode": 0
+    }
+  ],
+  "payloads_validated": true,
+  "game_runtime_tested": false,
+  "source_payload_unchanged_count": 583,
+  "platforms_execution": {
+    "macos-arm64": true,
+    "macos-x64": false,
+    "windows-x64": false,
+    "windows-arm64": false,
+    "linux-x64": false,
+    "linux-arm64": false
+  }
+}

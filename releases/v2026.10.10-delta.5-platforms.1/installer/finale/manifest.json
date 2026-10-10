@@ -1,0 +1,39 @@
+{
+  "format": "ac4-finale-1",
+  "release": "2026.10.01-delta.5",
+  "files": [
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m490.emtm",
+      "kind": "resource",
+      "original_size": 3361,
+      "original_sha256": "4990c4b1bf8451ffa952a9b43e4c5f7c044ff2dbe0fd65e63cf6569e1944f377",
+      "size": 3361,
+      "sha256": "da3eb5b10012e63e9a6b0aabb0d2d75c033ba50141414715acfb34fe8c1b35a6",
+      "payload": "text_mission_m490.emtm.gz",
+      "patch_sha256": "855efbec8ec07339d8a5d29e10f0919ceff8d59dd6bd3c0fe22b495dcbee3837",
+      "patch_size": 1296
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m490_event.000",
+      "kind": "resource",
+      "original_size": 8677,
+      "original_sha256": "3d6d99cd4eb03de8c93f02fafc3a5c24d90ea89cdeea4545456cee4c12af230b",
+      "size": 8669,
+      "sha256": "83982312616a3350af62e05b68db4f7d621b85ddac01c0d2b539b99881a05c2c",
+      "payload": "bind_world_m490_event.000.gz",
+      "patch_sha256": "cbaa4a6930d002f04a7b07600d2f5b14dd4da84081cc5f0930f408d048905ce5",
+      "patch_size": 8405
+    },
+    {
+      "path": "PS3_GAME/USRDIR/movie/staff roll.pam",
+      "kind": "movie_sectors",
+      "original_size": 712337408,
+      "size": 712337408,
+      "original_sha256": "1759923ab60f1e3e2810419a39bd82c8286a23a6b21205fb1d77b0a446714507",
+      "sha256": "d6cb0be39e733f16c023ff4cc194adfec8742c71ba6dc75d8eca4e35c4c7862d",
+      "payload": "movie.patch.gz",
+      "patch_sha256": "43504bdaa54f2476d0f8da1a6ae027fc736753382252e432c94ffe233974bf74",
+      "patch_size": 1937151
+    }
+  ]
+}
