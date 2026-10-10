@@ -1,0 +1,55 @@
+{
+  "tag": "v2026.10.10-delta.5-platforms.1",
+  "archive": {
+    "file": "AC4_CN_FullPatch_20261010_delta5_ThreePlatforms_BLJM60012.zip",
+    "bytes": 260594998,
+    "sha256": "650c095b17bd83354640ee115a22e93b8fe291a70911f82ba14c56b72b018a43",
+    "zip_crc_passed": true,
+    "fresh_macos_arm64_doctor": true,
+    "fresh_all_files_sha256_verified": true,
+    "game_runtime_tested": false
+  },
+  "parts": [
+    {
+      "file": "AC4_CN_FullPatch_20261010_delta5_ThreePlatforms_BLJM60012.zip.part001",
+      "bytes": 33554432,
+      "sha256": "bcd844dd91bf25b7d8a4f00184897e466c96b58240727da162f8bace2f2b84bf"
+    },
+    {
+      "file": "AC4_CN_FullPatch_20261010_delta5_ThreePlatforms_BLJM60012.zip.part002",
+      "bytes": 33554432,
+      "sha256": "8f1588e53a6e8fc5110e47a42684d3a8631a7aebb4a664a0058ded2f3c14277b"
+    },
+    {
+      "file": "AC4_CN_FullPatch_20261010_delta5_ThreePlatforms_BLJM60012.zip.part003",
+      "bytes": 33554432,
+      "sha256": "4942c596eef1a0d42e3f45aace51372fd625c07ad2bb0544ec7214dfc9c50cee"
+    },
+    {
+      "file": "AC4_CN_FullPatch_20261010_delta5_ThreePlatforms_BLJM60012.zip.part004",
+      "bytes": 33554432,
+      "sha256": "26ae37b06dc37d68e67eb5ec7ee4270400949119e67441e291d732924d94afb9"
+    },
+    {
+      "file": "AC4_CN_FullPatch_20261010_delta5_ThreePlatforms_BLJM60012.zip.part005",
+      "bytes": 33554432,
+      "sha256": "5e4df92a8f2a9cca53a42b4929d00890dff9e295e64f19b4b1cb6e6bff9d793f"
+    },
+    {
+      "file": "AC4_CN_FullPatch_20261010_delta5_ThreePlatforms_BLJM60012.zip.part006",
+      "bytes": 33554432,
+      "sha256": "10d6ae65958bfdf813ebaa6033b62c98507079328c9e9822af92ce254179cefd"
+    },
+    {
+      "file": "AC4_CN_FullPatch_20261010_delta5_ThreePlatforms_BLJM60012.zip.part007",
+      "bytes": 33554432,
+      "sha256": "ceb9a3be78afde5bddcad68a9ade845d74f2a6125bf0eae94e7b5b09316c8546"
+    },
+    {
+      "file": "AC4_CN_FullPatch_20261010_delta5_ThreePlatforms_BLJM60012.zip.part008",
+      "bytes": 25713974,
+      "sha256": "ff1010f233f6422f88a8b02b7709a496daa48da089fb440d1112a900f131f907"
+    }
+  ],
+  "base_url": "https://github.com/AmuroRX-93/AC4-Chinese-Patch/releases/download/v2026.10.10-delta.5-platforms.1/"
+}

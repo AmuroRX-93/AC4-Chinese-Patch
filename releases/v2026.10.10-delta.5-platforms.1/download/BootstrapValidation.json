@@ -1,0 +1,8 @@
+{
+  "native_macos_merge_extract_and_all_files_verified": true,
+  "windows_static_only": true,
+  "linux_static_only": true,
+  "archive_sha256": "650c095b17bd83354640ee115a22e93b8fe291a70911f82ba14c56b72b018a43",
+  "segments": 8,
+  "game_runtime_tested": false
+}

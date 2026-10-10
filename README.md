@@ -3,9 +3,7 @@
 
 [AC4 delta.5 三平台累计差分包](https://github.com/AmuroRX-93/AC4-Chinese-Patch/releases/tag/v2026.10.10-delta.5-platforms.1)
 
-Windows、macOS、Linux入口与六套Python随包，附详细安装、检查、校验、恢复说明。资源继续沿用delta.5；下载Release完整ZIP即可，不需要叠加旧包。Windows/Linux/Intel本轮未执行、未新增游戏内验收。
-
-Code下载仅源码，不含差分载荷和Python；请从上方发行附件下载。
+Windows/macOS/Linux入口、工具、详细说明与六套Python随包。下载对应平台自动入口即可获取分段并校验、合并、解压；也可手工下载全部8段。合并后是同一完整累计ZIP，资源仍为delta.5。Windows/Linux/Intel未执行、未新增游戏内验收。Code下载仅源码，不含差分载荷和Python。
 <!-- /latest-release-20261010 -->
 
 # AC4 累计汉化差分包 · delta.5
