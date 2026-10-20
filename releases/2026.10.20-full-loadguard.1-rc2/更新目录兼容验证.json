@@ -1,0 +1,16 @@
+{
+  "mixed_case_and_nested_resources": true,
+  "regulation_plus_eboot_plus_loose_and_archive_menu": true,
+  "sidecars_and_empty_directories_preserved": true,
+  "single_transaction_game_and_update": true,
+  "idempotent": true,
+  "restore_game_update_cache_exact": true,
+  "update_files_changed": 4,
+  "executed_platform": "macOS ARM64 bundled Python; Windows execution not performed",
+  "metadata_only_update_supported": true,
+  "unknown_active_and_eboot_rejected": true,
+  "duplicate_case_rejected": true,
+  "split_app_and_raw_parts_supported": true,
+  "split_app_repeated_install_no_changes": true,
+  "unknown_update_eboot_stops_before_base_write": true
+}

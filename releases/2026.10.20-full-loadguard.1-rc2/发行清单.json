@@ -1,0 +1,21 @@
+{
+  "format": "ac4-cumulative-1",
+  "release": "2026.10.20-full-loadguard.1-rc2",
+  "base_manifest_sha256": "190becd49596e8410a10feaf627b0bf250b08b6f8c2549c8e50ecbba5b583100",
+  "font_manifest_sha256": "d1d1adf3d0fdfec808fb02051cf7b579b65174a11b84fa0727600ccc4a53703b",
+  "finale_manifest_sha256": "6132e5cd455ae2a8be1623c29199f3a136cab452245b8da78d98c7c0b65c700b",
+  "repair_schema_sha256": "f05287a59b07cc429fb8a805d94dee173287bb38885eddba306b95f81fa67122",
+  "runtime_tested": false,
+  "installer_revision": "2026.10.20-update-overlay.1",
+  "installer_validation": "See 更新目录兼容验证.json and 合并安装验证.json; macOS ARM64 only.",
+  "package_revision": "2026.10.20-full-loadguard.1-rc2",
+  "platforms": [
+    "windows-x64",
+    "windows-arm64",
+    "macos-arm64",
+    "macos-x64",
+    "linux-x64",
+    "linux-arm64"
+  ],
+  "loadguard_manifest_sha256": "4b887fe50ce47330b51af151a13431f08465ee1f2511908789d015efca5f8f40"
+}

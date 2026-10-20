@@ -1,0 +1,16 @@
+{
+  "single_transaction": true,
+  "changed_files": 276,
+  "baseline_original_hash_matched_files": 258,
+  "compatible_translated_inputs": 21,
+  "all_changed_outputs_match": true,
+  "normal_and_eboot": true,
+  "standalone_hotfix_no_changes": true,
+  "idempotence": true,
+  "runtime_test": "not launched; no focus changes",
+  "full_restore_and_cache": true,
+  "unknown_eboot_preflight_rejected": true,
+  "prior_cumulative_equivalence_except_three_intended_files": true,
+  "late_failure_rolls_back_all_276_files": true,
+  "unchanged_base_font_finale_delta_payloads": true
+}
