@@ -1,0 +1,12 @@
+{
+  "runtime": "RPCS3 0.0.42-20021 macOS arm64",
+  "mode": "headless, null audio and video, isolated VFS",
+  "japanese_to_chinese_parser_passes": 2,
+  "description_count": 202,
+  "probe_instrumented": true,
+  "normal_save_menu_load_verified": false,
+  "console_hardware_verified": false,
+  "no_invalid_branch": true,
+  "no_access_violation": true,
+  "original_game_eboot_sha256": "a30683f85df2b51a8eb56342e42a8b5a9203d712f631592dbfaa3fb36e99f691"
+}
