@@ -1,0 +1,64 @@
+{
+  "core_cases": [
+    {
+      "case": "japanese",
+      "passed": true,
+      "descriptions_restored": 202,
+      "numeric_preserved": true,
+      "untouched_registers_preserved": true,
+      "test_scope": "overlay body only; 64-bit save/restore pending real runtime"
+    },
+    {
+      "case": "chinese",
+      "passed": true,
+      "descriptions_restored": 202,
+      "numeric_preserved": true,
+      "untouched_registers_preserved": true,
+      "test_scope": "overlay body only; 64-bit save/restore pending real runtime"
+    },
+    {
+      "case": "numeric_changed",
+      "passed": true,
+      "descriptions_restored": 202,
+      "numeric_preserved": true,
+      "untouched_registers_preserved": true,
+      "test_scope": "overlay body only; 64-bit save/restore pending real runtime"
+    },
+    {
+      "case": "unknown_header",
+      "passed": true,
+      "descriptions_restored": 0,
+      "numeric_preserved": true,
+      "untouched_registers_preserved": true,
+      "test_scope": "overlay body only; 64-bit save/restore pending real runtime"
+    },
+    {
+      "case": "unknown_last_model",
+      "passed": true,
+      "descriptions_restored": 0,
+      "numeric_preserved": true,
+      "untouched_registers_preserved": true,
+      "test_scope": "overlay body only; 64-bit save/restore pending real runtime"
+    },
+    {
+      "case": "null",
+      "passed": true,
+      "descriptions_restored": 0,
+      "numeric_preserved": true,
+      "untouched_registers_preserved": true,
+      "test_scope": "overlay body only; 64-bit save/restore pending real runtime"
+    }
+  ],
+  "runtime": {
+    "runtime": "RPCS3 0.0.42-20021 macOS arm64",
+    "mode": "headless, null audio and video, isolated VFS",
+    "japanese_to_chinese_parser_passes": 2,
+    "description_count": 202,
+    "probe_instrumented": true,
+    "normal_save_menu_load_verified": false,
+    "console_hardware_verified": false,
+    "no_invalid_branch": true,
+    "no_access_violation": true
+  },
+  "self_embedded_elf_exact": true
+}

@@ -1,0 +1,45 @@
+{
+  "tag": "v2026.10.20-loadguard.1-rc1",
+  "archive": {
+    "file": "AC4_delta5_LoadGuard_Normal_20261020_rc1.zip",
+    "bytes": 228901683,
+    "sha256": "2aedb74015f7d39ef766ca85ca9648bebae86231e26d5924bb61bacc08c7977d"
+  },
+  "parts": [
+    {
+      "file": "AC4_delta5_LoadGuard_Normal_20261020_rc1.zip.part001",
+      "bytes": 33554432,
+      "sha256": "09b7be3ae306f01726176f75ee9f453c471aee1941fc8be303cb082bda67e94e"
+    },
+    {
+      "file": "AC4_delta5_LoadGuard_Normal_20261020_rc1.zip.part002",
+      "bytes": 33554432,
+      "sha256": "c4091d004c845ff7e0003cf15c6972560b5b2cafc6c5fe7afe258fc92da2c06e"
+    },
+    {
+      "file": "AC4_delta5_LoadGuard_Normal_20261020_rc1.zip.part003",
+      "bytes": 33554432,
+      "sha256": "e0ba84423a9d0c2cf2f2c3da1c9eff6f8fd37802b31e76104ca3e08117836443"
+    },
+    {
+      "file": "AC4_delta5_LoadGuard_Normal_20261020_rc1.zip.part004",
+      "bytes": 33554432,
+      "sha256": "d686d1fc4bddb368c0bdc0366732e6158a6835c49d1857325f69fbc4aba0d3c1"
+    },
+    {
+      "file": "AC4_delta5_LoadGuard_Normal_20261020_rc1.zip.part005",
+      "bytes": 33554432,
+      "sha256": "b401df9d1144c1204acfbbc9d53c4a91577d0ac8c468777ec6404bd672550401"
+    },
+    {
+      "file": "AC4_delta5_LoadGuard_Normal_20261020_rc1.zip.part006",
+      "bytes": 33554432,
+      "sha256": "ada1e043fb5ba057eefb9833137c40a2d02447d338ac0535fbd1337a0d443362"
+    },
+    {
+      "file": "AC4_delta5_LoadGuard_Normal_20261020_rc1.zip.part007",
+      "bytes": 27575091,
+      "sha256": "11931f6ce00dd52d777ea31f2cb872111bc50994b3b22f9a4516685ae7c06502"
+    }
+  ]
+}

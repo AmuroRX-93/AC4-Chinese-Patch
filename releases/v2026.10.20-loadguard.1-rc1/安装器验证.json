@@ -1,0 +1,28 @@
+[
+  {
+    "case": "install_and_idempotence",
+    "passed": true,
+    "files": 5,
+    "spaces_and_chinese_path": true
+  },
+  {
+    "case": "exact_restore",
+    "passed": true
+  },
+  {
+    "case": "unknown_executable_rejected",
+    "passed": true
+  },
+  {
+    "case": "later_edit_restore_conflict_rejected_before_any_write",
+    "passed": true
+  },
+  {
+    "case": "mid_install_failure_rolls_back",
+    "passed": true
+  },
+  {
+    "case": "normal_matches_reviewed_candidate_and_preserves_texture",
+    "passed": true
+  }
+]

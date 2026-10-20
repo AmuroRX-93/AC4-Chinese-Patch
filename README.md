@@ -1,3 +1,9 @@
+<!-- candidate-release-20261020 -->
+## 可选增量测试版（2026-10-20）
+
+[Normal 与零件说明加载保护 rc1](https://github.com/AmuroRX-93/AC4-Chinese-Patch/releases/tag/v2026.10.20-loadguard.1-rc1)：基于 delta.5，修正 Normal，并在解析零件表时补回 202 条中文说明。无窗口运行检查和安装回退检查已通过；旧日版存档的完整菜单读档及本次画面验收仍待完成，仅建议独立副本测试。此版不替代以下正式版。
+<!-- /candidate-release-20261020 -->
+
 <!-- latest-release-20261010 -->
 ## 最新正式发布（2026-10-10）
 

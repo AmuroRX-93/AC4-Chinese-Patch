@@ -1,0 +1,6 @@
+{
+  "parts": 7,
+  "combined_sha256": "2aedb74015f7d39ef766ca85ca9648bebae86231e26d5924bb61bacc08c7977d",
+  "actual_macos_merge": true,
+  "windows_linux": "static only"
+}

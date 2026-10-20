@@ -1,0 +1,75 @@
+{
+  "format": "ac4-loadguard-1",
+  "game": "BLJM60012",
+  "release": "2026.10.20-loadguard.1-rc1",
+  "requires": "2026.10.01-delta.5 or 2026.10.10-delta.5-platforms.1",
+  "status": "prerelease: old-save menu-load and physical-console validation pending",
+  "required_fonts": [
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10001.tpf",
+      "sha256": "0bb16f58c488844980a9a5754ecfb0d2239cd6cb102848ef357993ba5489c78d"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10002.tpf",
+      "sha256": "0afe7f2c46932c420ff6d8d03c44ed231a0910b3a067c78ab7eb197f7d865d58"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10003.tpf",
+      "sha256": "fac543a3cc59fad71c56d0e75a034394334d021a9e3327e9c523051a0ae61ba4"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10004.tpf",
+      "sha256": "ced9886c2d363f45bc28359501eba989c335e782b600377ee4f81e152e05c716"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10005.tpf",
+      "sha256": "077df81206356b0ee7afa484abd25f0a07ce865d5cfbc796f745b981fc02af5a"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10006.tpf",
+      "sha256": "c4cf8d45a88850b45a32355c7441744ec84f5a7528b0cea6704b73ccdad38db9"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10007.tpf",
+      "sha256": "ab7c0d89fc10d7bd76168b4a614363838c1f9a142665d93e236509a127b971c6"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10008.tpf",
+      "sha256": "885c1b352069fa0b3761086e000de65e8f64216ebf73e0f44dbd819809d6bcb4"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10009.tpf",
+      "sha256": "75f95fe039efccc76d0750840ac5faf94182ac889e22f6fe42673051ad117762"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10010.tpf",
+      "sha256": "ee7f6886ef7cebca135b38a1757a4f16e7b8e8c6b60ccb4da76788e31512debe"
+    }
+  ],
+  "eboot": {
+    "patch": "payload/eboot.bsdiff",
+    "source_sha256": "a30683f85df2b51a8eb56342e42a8b5a9203d712f631592dbfaa3fb36e99f691",
+    "target_sha256": "20c14c6e12ced8fac0ad3c1823feeb003cab3a890b476a641291d2ac47867df4",
+    "target_size": 16977200,
+    "patch_sha256": "bdcc5c656de5dd2e53c5a7e2bea1a1cd559f30a8b1ee03b088e5999e216e8b17",
+    "patch_size": 5241141
+  },
+  "coverage": {
+    "parts_descriptions": 202,
+    "normal_shape": 98,
+    "unknown_parts_schema": "skip without modifying",
+    "numeric_fields": "preserved",
+    "all_other_game_resources": "not a blanket resource reload"
+  },
+  "validation": {
+    "runtime": "RPCS3 0.0.42-20021 macOS arm64",
+    "mode": "headless, null audio and video, isolated VFS",
+    "japanese_to_chinese_parser_passes": 2,
+    "description_count": 202,
+    "probe_instrumented": true,
+    "normal_save_menu_load_verified": false,
+    "console_hardware_verified": false,
+    "no_invalid_branch": true,
+    "no_access_violation": true
+  }
+}

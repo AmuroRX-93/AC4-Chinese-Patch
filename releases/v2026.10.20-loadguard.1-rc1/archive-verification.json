@@ -1,0 +1,17 @@
+{
+  "zip": "AC4_delta5_LoadGuard_Normal_20261020_rc1.zip",
+  "bytes": 228901683,
+  "sha256": "2aedb74015f7d39ef766ca85ca9648bebae86231e26d5924bb61bacc08c7977d",
+  "files": 6742,
+  "zip_crc": true,
+  "all_entry_sha256": true,
+  "platforms": [
+    "windows-x64",
+    "windows-arm64",
+    "macos-arm64",
+    "macos-x64",
+    "linux-x64",
+    "linux-arm64"
+  ],
+  "native_tool_test": "macos-arm64 only"
+}

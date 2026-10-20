@@ -1,0 +1,7 @@
+{
+  "tool": "um publish check",
+  "files": 6718,
+  "failures": 0,
+  "warnings": 4,
+  "resolution": "All four warnings are the unchanged bundled pip platformdirs/windows.py docstring example C:\\Users\\Public. Not a private user path."
+}
