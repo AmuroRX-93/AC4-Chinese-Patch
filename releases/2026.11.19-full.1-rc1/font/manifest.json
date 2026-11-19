@@ -1,0 +1,2029 @@
+{
+  "format": 2,
+  "game": "BLJM60012",
+  "version": "01.05",
+  "release": "2026.09.25-sourcehan-sans.1",
+  "required_release": "2026.09.25-delta.3",
+  "base": [
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10001.tpf",
+      "size": 262272,
+      "sha256": "0bb16f58c488844980a9a5754ecfb0d2239cd6cb102848ef357993ba5489c78d",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 262272,
+      "original_sha256": "68d0d164f00efb152a7993b564002fb9055f21b17ae391366fac230622e43daa",
+      "segments": [
+        {
+          "payload": "payload/0000.bsdiff",
+          "old_offset": 0,
+          "old_size": 262272,
+          "output_offset": 0,
+          "size": 262272,
+          "sha256": "0bb16f58c488844980a9a5754ecfb0d2239cd6cb102848ef357993ba5489c78d",
+          "patch_size": 39823,
+          "patch_sha256": "b535122fe55f0e00d27f50f129705ab34965ae150e875c0a029f2dc86e0ffa82"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10002.tpf",
+      "size": 262272,
+      "sha256": "0afe7f2c46932c420ff6d8d03c44ed231a0910b3a067c78ab7eb197f7d865d58",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 262272,
+      "original_sha256": "bdb161f73f5b8ee532eeaa454a382e156e85bbff864a02fd628b09dd25f0fa86",
+      "segments": [
+        {
+          "payload": "payload/0001.bsdiff",
+          "old_offset": 0,
+          "old_size": 262272,
+          "output_offset": 0,
+          "size": 262272,
+          "sha256": "0afe7f2c46932c420ff6d8d03c44ed231a0910b3a067c78ab7eb197f7d865d58",
+          "patch_size": 58613,
+          "patch_sha256": "2f23122f30b4cd763af315201de994c6c46f0e829a2b0cf57661915e6788437a"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10003.tpf",
+      "size": 262272,
+      "sha256": "fac543a3cc59fad71c56d0e75a034394334d021a9e3327e9c523051a0ae61ba4",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 262272,
+      "original_sha256": "37479e7265c3f6c7ae8020877fc44330fcf33a440d0a6e817b7b3ee67f8620f7",
+      "segments": [
+        {
+          "payload": "payload/0002.bsdiff",
+          "old_offset": 0,
+          "old_size": 262272,
+          "output_offset": 0,
+          "size": 262272,
+          "sha256": "fac543a3cc59fad71c56d0e75a034394334d021a9e3327e9c523051a0ae61ba4",
+          "patch_size": 56315,
+          "patch_sha256": "e784fac70be2014617e8d7fa94ee0bb7abe0b2b4b86fd696856c0a06f9cd93e3"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10004.tpf",
+      "size": 262272,
+      "sha256": "ced9886c2d363f45bc28359501eba989c335e782b600377ee4f81e152e05c716",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 262272,
+      "original_sha256": "bda85c9e30e16fe50c9fe48f279145bd4d620f0a8aff22bc00c8a04f69844abc",
+      "segments": [
+        {
+          "payload": "payload/0003.bsdiff",
+          "old_offset": 0,
+          "old_size": 262272,
+          "output_offset": 0,
+          "size": 262272,
+          "sha256": "ced9886c2d363f45bc28359501eba989c335e782b600377ee4f81e152e05c716",
+          "patch_size": 44698,
+          "patch_sha256": "c103f15135e3ab348591a263f3d260f7cdd1c13f75112f1852d53a007de01d02"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10005.tpf",
+      "size": 262272,
+      "sha256": "077df81206356b0ee7afa484abd25f0a07ce865d5cfbc796f745b981fc02af5a",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 262272,
+      "original_sha256": "0a4bc951be9a4b19160e4a1802ef7bb2fc86ea3ea3c858c4c617030a7541c6ac",
+      "segments": [
+        {
+          "payload": "payload/0004.bsdiff",
+          "old_offset": 0,
+          "old_size": 262272,
+          "output_offset": 0,
+          "size": 262272,
+          "sha256": "077df81206356b0ee7afa484abd25f0a07ce865d5cfbc796f745b981fc02af5a",
+          "patch_size": 37406,
+          "patch_sha256": "65df7e98e546ebd5c1747d01270b93189f145c4f3b7eb51be0a893bd704c07f3"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10006.tpf",
+      "size": 262272,
+      "sha256": "c4cf8d45a88850b45a32355c7441744ec84f5a7528b0cea6704b73ccdad38db9",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 262272,
+      "original_sha256": "bfac7133d97bd2f029bfe2efc393f5f0e0f36f209b9d8a706c23896c749d2fb0",
+      "segments": [
+        {
+          "payload": "payload/0005.bsdiff",
+          "old_offset": 0,
+          "old_size": 262272,
+          "output_offset": 0,
+          "size": 262272,
+          "sha256": "c4cf8d45a88850b45a32355c7441744ec84f5a7528b0cea6704b73ccdad38db9",
+          "patch_size": 40191,
+          "patch_sha256": "bf12d2cb7d472cb7792e7317a641330f1c3e9ef6e45ffc91234cc634a1a99c28"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10007.tpf",
+      "size": 262272,
+      "sha256": "ab7c0d89fc10d7bd76168b4a614363838c1f9a142665d93e236509a127b971c6",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 262272,
+      "original_sha256": "e9f80018421198963f40ed75d934987252620ed9e84612a8d2fdc463187ae49f",
+      "segments": [
+        {
+          "payload": "payload/0006.bsdiff",
+          "old_offset": 0,
+          "old_size": 262272,
+          "output_offset": 0,
+          "size": 262272,
+          "sha256": "ab7c0d89fc10d7bd76168b4a614363838c1f9a142665d93e236509a127b971c6",
+          "patch_size": 35872,
+          "patch_sha256": "12d147a270b5dad1454d40c6a723e4f2843b2f59734587089f39d050b6121cf2"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10008.tpf",
+      "size": 262272,
+      "sha256": "885c1b352069fa0b3761086e000de65e8f64216ebf73e0f44dbd819809d6bcb4",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 262272,
+      "original_sha256": "6e269ce697eab7beb6da33fbfa3f041b1679de9949767dbfbef4fb3003227640",
+      "segments": [
+        {
+          "payload": "payload/0007.bsdiff",
+          "old_offset": 0,
+          "old_size": 262272,
+          "output_offset": 0,
+          "size": 262272,
+          "sha256": "885c1b352069fa0b3761086e000de65e8f64216ebf73e0f44dbd819809d6bcb4",
+          "patch_size": 42841,
+          "patch_sha256": "e224dc36dc35d454a742eaaba666fbd220e8a0c54d656274de5c631e7dfbd868"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10009.tpf",
+      "size": 262272,
+      "sha256": "75f95fe039efccc76d0750840ac5faf94182ac889e22f6fe42673051ad117762",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 262272,
+      "original_sha256": "46885559ed9006d7d04bb5ca88dc8a30ebb092b2c14c2aed8ded577810bdaa21",
+      "segments": [
+        {
+          "payload": "payload/0008.bsdiff",
+          "old_offset": 0,
+          "old_size": 262272,
+          "output_offset": 0,
+          "size": 262272,
+          "sha256": "75f95fe039efccc76d0750840ac5faf94182ac889e22f6fe42673051ad117762",
+          "patch_size": 15718,
+          "patch_sha256": "101f1359863369ecba3361e64df4c2f72405210774e550e4a43a49f022fc7c4e"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10010.tpf",
+      "size": 262272,
+      "sha256": "ee7f6886ef7cebca135b38a1757a4f16e7b8e8c6b60ccb4da76788e31512debe",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 262272,
+      "original_sha256": "c22e8c4aab743c2f764410003b8914c91f787a7c57b86a10fc8b35a2319dec56",
+      "segments": [
+        {
+          "payload": "payload/0009.bsdiff",
+          "old_offset": 0,
+          "old_size": 262272,
+          "output_offset": 0,
+          "size": 262272,
+          "sha256": "ee7f6886ef7cebca135b38a1757a4f16e7b8e8c6b60ccb4da76788e31512debe",
+          "patch_size": 39918,
+          "patch_sha256": "dd47627ecb0a6f31dac22c676c542ef53e5d31ae847ec012ee57daf463a4c0b8"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/acsis.tpf",
+      "size": 2359552,
+      "sha256": "2a3fdf70b8e84e4a69019bd539ce690d6e34a24dacd5d72c38741b7d37441b0e",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 2359552,
+      "original_sha256": "2f163a363349c001d3bc9e00a748bc3682a127d007a129ba3d3b3fc350d17132",
+      "segments": [
+        {
+          "payload": "payload/0010.bsdiff",
+          "old_offset": 0,
+          "old_size": 2359552,
+          "output_offset": 0,
+          "size": 2359552,
+          "sha256": "2a3fdf70b8e84e4a69019bd539ce690d6e34a24dacd5d72c38741b7d37441b0e",
+          "patch_size": 55632,
+          "patch_sha256": "1db32d6455bc86a59d6fba91a97218b4b74a4f4a93d6a2a249d3ac0f176b5e55"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/actest.tpf",
+      "size": 1638784,
+      "sha256": "7383d2a8289031d84b32da1c556c90636d5fdfbee2aa3711354ba111b5343e6c",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 1638784,
+      "original_sha256": "e7e0b984eb2a55196a61df56ae0360781a67ed148c53f4febce7d987d68114db",
+      "segments": [
+        {
+          "payload": "payload/0011.bsdiff",
+          "old_offset": 0,
+          "old_size": 1638784,
+          "output_offset": 0,
+          "size": 1638784,
+          "sha256": "7383d2a8289031d84b32da1c556c90636d5fdfbee2aa3711354ba111b5343e6c",
+          "patch_size": 18134,
+          "patch_sha256": "368a146747c994ce8d114dcafca74c4fab61ab7cf8fafdafe3369fb66e9bd1ca"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/arena.tpf",
+      "size": 10750080,
+      "sha256": "703d8cadcae633ff8f6c5d107d6999937a62661960e32a8aa2593458d241696b",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 10750080,
+      "original_sha256": "c440de82a79061e017fdfe92c4f528dbe294dbf439a6bac167b021af571e45fd",
+      "segments": [
+        {
+          "payload": "payload/0012.bsdiff",
+          "old_offset": 0,
+          "old_size": 10750080,
+          "output_offset": 0,
+          "size": 10750080,
+          "sha256": "703d8cadcae633ff8f6c5d107d6999937a62661960e32a8aa2593458d241696b",
+          "patch_size": 58220,
+          "patch_sha256": "8e9e5e22ed843edd4e48d2d49e856278fc054ec17967109fb2ad3006cbace988"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/assemble.tpf",
+      "size": 2072960,
+      "sha256": "1db0018306c5951671aa7bbab3c0a711cb034d5f7827e0613dccab5c1668a703",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 2072960,
+      "original_sha256": "712c03327bdb452defe151fee6857cae225bd5b38110d207626b78598d6f421c",
+      "segments": [
+        {
+          "payload": "payload/0013.bsdiff",
+          "old_offset": 0,
+          "old_size": 2072960,
+          "output_offset": 0,
+          "size": 2072960,
+          "sha256": "1db0018306c5951671aa7bbab3c0a711cb034d5f7827e0613dccab5c1668a703",
+          "patch_size": 64470,
+          "patch_sha256": "8e0b1a746de8a9f4530f4c8147e60e987e72d996bf70e88de88195385ca1f57a"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/debriefing.tpf",
+      "size": 2457856,
+      "sha256": "70f88179ad3bc5393be9606d4975034a98243f5b8c589298a401383ccbd2796a",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 2457856,
+      "original_sha256": "7cfcf9cea58ca15f129f0432fad353d8331f28e932942d5a9e1421f1d5fcb035",
+      "segments": [
+        {
+          "payload": "payload/0014.bsdiff",
+          "old_offset": 0,
+          "old_size": 2457856,
+          "output_offset": 0,
+          "size": 2457856,
+          "sha256": "70f88179ad3bc5393be9606d4975034a98243f5b8c589298a401383ccbd2796a",
+          "patch_size": 32053,
+          "patch_sha256": "4f02d6b8ec8a99cc2d787a09cbbfaa37ffa35678337b2ed98ffd9a5fc641f2a4"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/design.tpf",
+      "size": 1442048,
+      "sha256": "1c368aad0024a6f24ee4ca5f38f40e3e2b4bae3a66cd22bcb18b6c2bd24aea08",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 1442048,
+      "original_sha256": "60e1ebd93630996e32dd771c8f220f81bb9cd4631e95222c8ad8caa1d0d30c8f",
+      "segments": [
+        {
+          "payload": "payload/0015.bsdiff",
+          "old_offset": 0,
+          "old_size": 1442048,
+          "output_offset": 0,
+          "size": 1442048,
+          "sha256": "1c368aad0024a6f24ee4ca5f38f40e3e2b4bae3a66cd22bcb18b6c2bd24aea08",
+          "patch_size": 55528,
+          "patch_sha256": "944bdc9aec05f6da9a17e8f281b92d0bd62b69c22790747a789a6be11ed5b30f"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/designtgs.tpf",
+      "size": 6553984,
+      "sha256": "cb9631c6602951d582586d9071e36d9348b6b4d534758b590285aa7b9a964f9f",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 6553984,
+      "original_sha256": "af2798482085541643fe1d9b4902c20b36397e7ec95b3a49e5a856c83486894e",
+      "segments": [
+        {
+          "payload": "payload/0016.bsdiff",
+          "old_offset": 0,
+          "old_size": 6553984,
+          "output_offset": 0,
+          "size": 6553984,
+          "sha256": "cb9631c6602951d582586d9071e36d9348b6b4d534758b590285aa7b9a964f9f",
+          "patch_size": 18129,
+          "patch_sha256": "b8ac455cc47cb8b6714d97c3a5690516582f78be42866d5d509fd34db9f4739b"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/match.tpf",
+      "size": 2441728,
+      "sha256": "0d6fc3ab2524763048df8e140bdb424c49aef5c1490ab93e48a0950f57bc6f97",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 2441728,
+      "original_sha256": "33fef08398240f89bdc62493dd194b497edc88c78efa3f172f0ce7cd9d9f051f",
+      "segments": [
+        {
+          "payload": "payload/0017.bsdiff",
+          "old_offset": 0,
+          "old_size": 2441728,
+          "output_offset": 0,
+          "size": 2441728,
+          "sha256": "0d6fc3ab2524763048df8e140bdb424c49aef5c1490ab93e48a0950f57bc6f97",
+          "patch_size": 56638,
+          "patch_sha256": "665352435c72a87e45f08ad05e0b1cba1d372208534b0d397fdd942f92079574"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/menusystem.tpf",
+      "size": 2146560,
+      "sha256": "66e13e0221a8672d6245241c650355308bec2745a48adf354b88bea6cdc17b36",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 2146560,
+      "original_sha256": "abcbdac223af46d8600502a466b7694ecc39a9dc0898cfd5d7eafe64019f4133",
+      "segments": [
+        {
+          "payload": "payload/0018.bsdiff",
+          "old_offset": 0,
+          "old_size": 2146560,
+          "output_offset": 0,
+          "size": 2146560,
+          "sha256": "66e13e0221a8672d6245241c650355308bec2745a48adf354b88bea6cdc17b36",
+          "patch_size": 4336,
+          "patch_sha256": "94a62cee74c381e307820c3baeab8316edfc313b3899dd0dae5d9afd95e47031"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/mission.tpf",
+      "size": 8831744,
+      "sha256": "e788ce195dc0e046917a5aba67c9527d323dd5562dbeb3fdc04f4a9c1b157dd2",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 8831744,
+      "original_sha256": "a32d85ef8e1b19ccaf9bf5eb4ff552e6d053f53c98d86edd2b3e8dfef5215010",
+      "segments": [
+        {
+          "payload": "payload/0019.bsdiff",
+          "old_offset": 0,
+          "old_size": 8831744,
+          "output_offset": 0,
+          "size": 8831744,
+          "sha256": "e788ce195dc0e046917a5aba67c9527d323dd5562dbeb3fdc04f4a9c1b157dd2",
+          "patch_size": 77168,
+          "patch_sha256": "0fe149f72bb51c4ae68f47c6c03f834bc0928690a93739d679d68a9bdbf9a299"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/paint.tpf",
+      "size": 2359552,
+      "sha256": "045faac3dc74379c2820567b297b69c7de0be810db719cb4bf3afca3b54b5e39",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 2359552,
+      "original_sha256": "d091eac80244077a6b8b9d544c95b0ca9c9532c2217aa5d00dca44cce1b6027a",
+      "segments": [
+        {
+          "payload": "payload/0020.bsdiff",
+          "old_offset": 0,
+          "old_size": 2359552,
+          "output_offset": 0,
+          "size": 2359552,
+          "sha256": "045faac3dc74379c2820567b297b69c7de0be810db719cb4bf3afca3b54b5e39",
+          "patch_size": 67031,
+          "patch_sha256": "80c20ea5acce024695606b340cdeef8e784711533085131c3a1e44dc0ac46db7"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/sortie.tpf",
+      "size": 2245248,
+      "sha256": "73999fff6f0fb4581aa583bc03b5a6099f330181ae774e99487c07878a944d8f",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 2245248,
+      "original_sha256": "6710f44b36dc02c8f5d05c8e2ed67bdb7c3ed65d0ee9cd5c0a59a3bb455bd177",
+      "segments": [
+        {
+          "payload": "payload/0021.bsdiff",
+          "old_offset": 0,
+          "old_size": 2245248,
+          "output_offset": 0,
+          "size": 2245248,
+          "sha256": "73999fff6f0fb4581aa583bc03b5a6099f330181ae774e99487c07878a944d8f",
+          "patch_size": 40475,
+          "patch_sha256": "e5a580cf032cc34e822ddd78588852aa69a26da76edfb080a329a1d3233538cb"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/systemsetting.tpf",
+      "size": 5570944,
+      "sha256": "dfcad16f4d7fed6450200cb39e05e068334ac32220db252296053f0da32e1b44",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 5570944,
+      "original_sha256": "b6438616c743f1219d32959811efbc40f6869dbfe6fa2d1755f8ac7dac7617eb",
+      "segments": [
+        {
+          "payload": "payload/0022.bsdiff",
+          "old_offset": 0,
+          "old_size": 5570944,
+          "output_offset": 0,
+          "size": 5570944,
+          "sha256": "dfcad16f4d7fed6450200cb39e05e068334ac32220db252296053f0da32e1b44",
+          "patch_size": 58256,
+          "patch_sha256": "aa7d937db4636ba7e21fe73ec8f0907fb5d5b59e354dd622eb4c78b2d4fda7a2"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/vsresult.tpf",
+      "size": 2375936,
+      "sha256": "3f188308269f80d6a7b4a0cd97865ecbc79d082e85f60772ae6265f3be801729",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 2375936,
+      "original_sha256": "b5f44115800c9f5d9d3e4f21163b8ddc8f09570f47afc8d19581478578106c87",
+      "segments": [
+        {
+          "payload": "payload/0023.bsdiff",
+          "old_offset": 0,
+          "old_size": 2375936,
+          "output_offset": 0,
+          "size": 2375936,
+          "sha256": "3f188308269f80d6a7b4a0cd97865ecbc79d082e85f60772ae6265f3be801729",
+          "patch_size": 67041,
+          "patch_sha256": "039e5436a2ea39c9c7ec622d92b4917f1d0ad64fd2059ab6b79f94a7117f2abf"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/vssortie.tpf",
+      "size": 1704192,
+      "sha256": "80867ad23fad3f8ffb7083c2da93387ca04423a3aa30833973ae9cfe1ee35bf5",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 1704192,
+      "original_sha256": "f7bbd327da5acca5f98e281eaed499d201c6c6e22adc05ef3cc31c1a05ca46b2",
+      "segments": [
+        {
+          "payload": "payload/0024.bsdiff",
+          "old_offset": 0,
+          "old_size": 1704192,
+          "output_offset": 0,
+          "size": 1704192,
+          "sha256": "80867ad23fad3f8ffb7083c2da93387ca04423a3aa30833973ae9cfe1ee35bf5",
+          "patch_size": 28144,
+          "patch_sha256": "bd66e336d086624a82c7468240e338dd207672d4893adc8063ecf3d5d28e628a"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/app.001",
+      "size": 1412734,
+      "sha256": "8051231841297ff2880b1c398fe636bb8137cec18fe976d962f365759e00fa16",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 1442432,
+      "original_sha256": "9a135d03a534cf117909d18ef49107b2fdff2b8215b057e2be235e33841c2d10",
+      "segments": [
+        {
+          "payload": "payload/0025.bsdiff",
+          "old_offset": 0,
+          "old_size": 1442432,
+          "output_offset": 0,
+          "size": 1412734,
+          "sha256": "8051231841297ff2880b1c398fe636bb8137cec18fe976d962f365759e00fa16",
+          "patch_size": 1315952,
+          "patch_sha256": "62255975bb3191ddc7c32007178862670f0d83f3fb9ee7ac9c0a0b210b05a637"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/app.002",
+      "size": 455432,
+      "sha256": "a927b361a6074faabca17f0ef91209e2af942c2468cdf45e2e9b1fead55b30d6",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 468065,
+      "original_sha256": "59d10662a44c8919d41d0bf011d3b8e4bc66fe0292af4260aba7d079a4e507d4",
+      "segments": [
+        {
+          "payload": "payload/0026.bsdiff",
+          "old_offset": 0,
+          "old_size": 468065,
+          "output_offset": 0,
+          "size": 455432,
+          "sha256": "a927b361a6074faabca17f0ef91209e2af942c2468cdf45e2e9b1fead55b30d6",
+          "patch_size": 456220,
+          "patch_sha256": "b28423da1697d5cecbb79a4c3ed0fb861f6c7d5bb0e4863052bff2c5934ada78"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/acsis.000",
+      "size": 164725,
+      "sha256": "6e916df843d727ff50e5ab3aaea77d902fe4316e8ca6973a77c5e329d7c4facb",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 161118,
+      "original_sha256": "52482aef5c1e577e7c663524c9ec8e2ccbfdec5822325d690bc14fb8dbb97eb9",
+      "segments": [
+        {
+          "payload": "payload/0027.bsdiff",
+          "old_offset": 0,
+          "old_size": 161118,
+          "output_offset": 0,
+          "size": 164725,
+          "sha256": "6e916df843d727ff50e5ab3aaea77d902fe4316e8ca6973a77c5e329d7c4facb",
+          "patch_size": 160034,
+          "patch_sha256": "21616a222bc73a200d35ee94e521b163329a3befeea03fe04d1c37b55b453dd1"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/actest.000",
+      "size": 232139,
+      "sha256": "acc46f3916286a4a4520b52044220ef372b2bcf67ff91b27b10a4b6c87cfac05",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 232862,
+      "original_sha256": "f45eb3b26f927ff751b1b3871aed3772c258aaa6349498015358bb33c159dbc9",
+      "segments": [
+        {
+          "payload": "payload/0028.bsdiff",
+          "old_offset": 0,
+          "old_size": 232862,
+          "output_offset": 0,
+          "size": 232139,
+          "sha256": "acc46f3916286a4a4520b52044220ef372b2bcf67ff91b27b10a4b6c87cfac05",
+          "patch_size": 229487,
+          "patch_sha256": "636c5c471a789066734d0c82db853908651f7c9a9de583758d00a4292a402122"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/arena.002",
+      "size": 2528457,
+      "sha256": "203f60b0dd376096b3a90697cdff4a58300d2f55a756bc3f87f47a811bd866d0",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 2522883,
+      "original_sha256": "93598432616245a818f1b315638485b3f1fe2ca17a7730e2be59f752f0618560",
+      "segments": [
+        {
+          "payload": "payload/0029.bsdiff",
+          "old_offset": 0,
+          "old_size": 2522883,
+          "output_offset": 0,
+          "size": 2528457,
+          "sha256": "203f60b0dd376096b3a90697cdff4a58300d2f55a756bc3f87f47a811bd866d0",
+          "patch_size": 2521793,
+          "patch_sha256": "1e0b50d39d80dc4abbfaa2e6dcf43631a7264b3e160e1b4cacd100adfa521b86"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/assemble.000",
+      "size": 308869,
+      "sha256": "6eff5cef7e85f8fc87da1836667ce56a45b13da72398f55fd88f1aa0deccc138",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 305518,
+      "original_sha256": "46e90588e34c6dd9a3363a3662827090f453896beb09b2f7b23999d49f40998b",
+      "segments": [
+        {
+          "payload": "payload/0030.bsdiff",
+          "old_offset": 0,
+          "old_size": 305518,
+          "output_offset": 0,
+          "size": 308869,
+          "sha256": "6eff5cef7e85f8fc87da1836667ce56a45b13da72398f55fd88f1aa0deccc138",
+          "patch_size": 231745,
+          "patch_sha256": "36e791c828c63d11d2e085d5c443b847b8d5339ce41db31ca5d2ab4feffc3763"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/debriefing.000",
+      "size": 278034,
+      "sha256": "68eecad451f49ac06201f4e52aefe3f5e48e58f7afcf169643fbd8a86c2294d7",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 279893,
+      "original_sha256": "fb5222a2b5a5d53cb7221f8a202f9dbf85618ebae41cc828943a2662dd6f2ad3",
+      "segments": [
+        {
+          "payload": "payload/0031.bsdiff",
+          "old_offset": 0,
+          "old_size": 279893,
+          "output_offset": 0,
+          "size": 278034,
+          "sha256": "68eecad451f49ac06201f4e52aefe3f5e48e58f7afcf169643fbd8a86c2294d7",
+          "patch_size": 272682,
+          "patch_sha256": "42f361d7b423ca5f3714f0ebd3d3b8a32bf13c956a1670a34efb981f7e543f9a"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/design.000",
+      "size": 182000,
+      "sha256": "a112b38db00f2d14b3fe209b5cfbbacccae63865f9901ad542b6e727f782a80d",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 177805,
+      "original_sha256": "25b283fafed5449612b6557743c74e88cec4d404672a751679b7185252918294",
+      "segments": [
+        {
+          "payload": "payload/0032.bsdiff",
+          "old_offset": 0,
+          "old_size": 177805,
+          "output_offset": 0,
+          "size": 182000,
+          "sha256": "a112b38db00f2d14b3fe209b5cfbbacccae63865f9901ad542b6e727f782a80d",
+          "patch_size": 156011,
+          "patch_sha256": "7734f573ccfb7e5a4ea4249259507917476dd166d5b00797a96509ca270b7c0c"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/designtgs.000",
+      "size": 592391,
+      "sha256": "b6b63918c7a17129badd478aa39cdd42695ba7b9f7931611b4744329df5113a7",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 593267,
+      "original_sha256": "c32aac78100736c53f74c4b425020fdb7eb6e743a9af2ea542a4e7fb24da7913",
+      "segments": [
+        {
+          "payload": "payload/0033.bsdiff",
+          "old_offset": 0,
+          "old_size": 593267,
+          "output_offset": 0,
+          "size": 592391,
+          "sha256": "b6b63918c7a17129badd478aa39cdd42695ba7b9f7931611b4744329df5113a7",
+          "patch_size": 579976,
+          "patch_sha256": "c6f85099d7c10a4852e86d9df68f0ab712a799ba59e3fd95038de2d7a262330a"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/match.000",
+      "size": 380801,
+      "sha256": "d7418b9753b6635f37303b92df507c29321f1331d1cf4219e966b59998f3214a",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 376935,
+      "original_sha256": "6c41e5cad1239a02c66e69df5df131ac159c69c0fe780e4776c5213fd1bfb162",
+      "segments": [
+        {
+          "payload": "payload/0034.bsdiff",
+          "old_offset": 0,
+          "old_size": 376935,
+          "output_offset": 0,
+          "size": 380801,
+          "sha256": "d7418b9753b6635f37303b92df507c29321f1331d1cf4219e966b59998f3214a",
+          "patch_size": 305995,
+          "patch_sha256": "a0195a7ec93b8560b38be5cbce85f366a86278f4522277cfad9b468b0a9a007f"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/menusystem.000",
+      "size": 99775,
+      "sha256": "a107e26678ba2649cf5813df4cb52525350e8a459afc6af385f533196365bca6",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 100489,
+      "original_sha256": "77e757b581739e91a39cb1d6bb44f841bb48b90ea0613d3f8498599425826a12",
+      "segments": [
+        {
+          "payload": "payload/0035.bsdiff",
+          "old_offset": 0,
+          "old_size": 100489,
+          "output_offset": 0,
+          "size": 99775,
+          "sha256": "a107e26678ba2649cf5813df4cb52525350e8a459afc6af385f533196365bca6",
+          "patch_size": 10633,
+          "patch_sha256": "b95cbab5c297c16dfd1de9dedfeb027613ecb6ffe71dfea9084f4361c64ec662"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/mission.002",
+      "size": 2238098,
+      "sha256": "1a8ee2cea84ff2dcf942258c843c88459734541d0b6745f85ebbf72d35939dd9",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 2232859,
+      "original_sha256": "8b6ca55aab984d36f7ed1d11d3550638c71e238957d831cc2b7aef37cd576f0b",
+      "segments": [
+        {
+          "payload": "payload/0036.bsdiff",
+          "old_offset": 0,
+          "old_size": 2232859,
+          "output_offset": 0,
+          "size": 2238098,
+          "sha256": "1a8ee2cea84ff2dcf942258c843c88459734541d0b6745f85ebbf72d35939dd9",
+          "patch_size": 2233872,
+          "patch_sha256": "d3a5b6da4380b44baf56bb253b875f82a1379b78fb1cc52ed93ac40ea8ed656c"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/paint.000",
+      "size": 294103,
+      "sha256": "1401901d7687a95c54cfc91e97e29f5654d5849b792fd60dfc55d703b9d8826b",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 288788,
+      "original_sha256": "9c216d1597b697e38958f4fac33f8ffa5195ba6e19e0c0f1b9f77cf78899420f",
+      "segments": [
+        {
+          "payload": "payload/0037.bsdiff",
+          "old_offset": 0,
+          "old_size": 288788,
+          "output_offset": 0,
+          "size": 294103,
+          "sha256": "1401901d7687a95c54cfc91e97e29f5654d5849b792fd60dfc55d703b9d8826b",
+          "patch_size": 240244,
+          "patch_sha256": "ce1344fa90923c984559e203b9cb1fb69509cd1235803ea9323ffcb4e687913a"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/sortie.000",
+      "size": 287413,
+      "sha256": "2f467dcee8a64311f96ae5dec84b50d8e2665a4ba59ae936b8dc5ce2aa10349c",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 286635,
+      "original_sha256": "f86bb7ac1a6c6548b00f8eb5350501a5175737c6654e27b9787f4743a36abbbb",
+      "segments": [
+        {
+          "payload": "payload/0038.bsdiff",
+          "old_offset": 0,
+          "old_size": 286635,
+          "output_offset": 0,
+          "size": 287413,
+          "sha256": "2f467dcee8a64311f96ae5dec84b50d8e2665a4ba59ae936b8dc5ce2aa10349c",
+          "patch_size": 170715,
+          "patch_sha256": "50b7f070ecf182c6bf2ace2fd8231dd03a405dda960e4eff362f70982a0130a5"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/systemsetting.000",
+      "size": 1173372,
+      "sha256": "ec58b0d23bf75aa86d3b46400f346d45881eb2124eae8b29410e31f60f6faa2a",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 1165876,
+      "original_sha256": "28099b56431b707ca7f01fc0a3476edf65b1ec521d4425c5f0af1fff5fce8ca3",
+      "segments": [
+        {
+          "payload": "payload/0039.bsdiff",
+          "old_offset": 0,
+          "old_size": 1165876,
+          "output_offset": 0,
+          "size": 1173372,
+          "sha256": "ec58b0d23bf75aa86d3b46400f346d45881eb2124eae8b29410e31f60f6faa2a",
+          "patch_size": 1145729,
+          "patch_sha256": "510360c0a058c40df9bce7bb96c9b5cd1922dd487e176839e63506fbd825d22c"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/vsresult.000",
+      "size": 236917,
+      "sha256": "d7d5e0b942acb7508db7bfa80b2ca8818c3456a64849925f31563df8cc28d5d2",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 231559,
+      "original_sha256": "ab7a2ea0e01e93307cacad665ae57a2db6ad1353baf22e70537196f2cd559dc3",
+      "segments": [
+        {
+          "payload": "payload/0040.bsdiff",
+          "old_offset": 0,
+          "old_size": 231559,
+          "output_offset": 0,
+          "size": 236917,
+          "sha256": "d7d5e0b942acb7508db7bfa80b2ca8818c3456a64849925f31563df8cc28d5d2",
+          "patch_size": 231590,
+          "patch_sha256": "d8ec7873f38a8d66bd4bb353a9645b772a9756150b86f2a30cf164ef288f19fb"
+        }
+      ]
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/vssortie.000",
+      "size": 177028,
+      "sha256": "5719b75e79ddcd169e409a7f27ad3817cc01e7c8464f2ec350dddf350098bab0",
+      "baseline": "2026.09.25-delta.3",
+      "original_size": 176295,
+      "original_sha256": "0f77fd0e523ad10cc99f3986a9339e4e6512b04bf320a9d3c8b42a049f7b4a92",
+      "segments": [
+        {
+          "payload": "payload/0041.bsdiff",
+          "old_offset": 0,
+          "old_size": 176295,
+          "output_offset": 0,
+          "size": 177028,
+          "sha256": "5719b75e79ddcd169e409a7f27ad3817cc01e7c8464f2ec350dddf350098bab0",
+          "patch_size": 163256,
+          "patch_sha256": "3238bcfbe4fe1889e58ab7db8645a5f903e6799ad82966305df5d25b2da41825"
+        }
+      ]
+    }
+  ],
+  "update": [],
+  "update_unchanged": [],
+  "unchanged": [
+    {
+      "path": "PS3_GAME/PARAM.SFO",
+      "size": 1128,
+      "sha256": "247f9a5b289127b508e35dd2568123df13c3d1044dd105ede62e45a2af5f039d"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/EBOOT.BIN",
+      "size": 16977072,
+      "sha256": "a30683f85df2b51a8eb56342e42a8b5a9203d712f631592dbfaa3fb36e99f691"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/app.000",
+      "size": 3468,
+      "sha256": "1f77db46c33b79e0c46f143326b9b2e8a93499b8e4b82afb5daa755c6496428b"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/arena.000",
+      "size": 144,
+      "sha256": "9d2012a213e1310d0d559804f105c5c5dc917fc1210c81c57f805c1a033af7bc"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/arena.001",
+      "size": 13888,
+      "sha256": "939ab426a093429afc578c32d20db77cbda0e261a086827e11667758020ae85f"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/autosave.000",
+      "size": 642,
+      "sha256": "fd1e104ddfc8846d247756c2eb12afabd621ec42b14c5ba6776d1cee8263afae"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/garage.000",
+      "size": 8435,
+      "sha256": "436b6b3b74219462a39989c4afc4869758771b1e0dc1af0813adf0dc45ee961e"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/mission.000",
+      "size": 145,
+      "sha256": "d68b9bb7fb9826c8368aa3bc7704c894e9cf145634eb12701f76db0d41e3da16"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/menu/mission.001",
+      "size": 9573,
+      "sha256": "0a155db2184c63ac0bfb12517f781ec593a0bafed8f445e990d5bcd8a4c305fe"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m000_event.000",
+      "size": 10519,
+      "sha256": "f5f5b6f9cdb3b7b2deea03fad79cea23a0b3bce31e5c1515d291581c89e1e6ff"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m010_event.000",
+      "size": 7836,
+      "sha256": "c8ea5d9ef8bba5e93b88d7f0d26eb5ec6f364ecfac1a53b40fd1a6d997477c4b"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m020_event.000",
+      "size": 7940,
+      "sha256": "f503cfa3cdd20e73dea7e712fa1f9cc249bb3bd1dc81f12d2684c652619ac4eb"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m030_event.000",
+      "size": 6852,
+      "sha256": "2e2abc875657249c1e9e99a98baaf82c529295cb72f9e3ce5a3c277ce82760b4"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m040_event.000",
+      "size": 9615,
+      "sha256": "421c0682c979fb353400430671d2f0fc6b0900ade208763ed849ec6f90aa5265"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m051_event.000",
+      "size": 7533,
+      "sha256": "ce9223ab5b545c7e52427cbf0d994de5ef0b7d77f5f2d646a12d42cd031e25e5"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m070_event.000",
+      "size": 6209,
+      "sha256": "d554e39b3640718fff27a22d93a435c4d763458728ce2586c82aa72d7c8413b0"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m080_event.000",
+      "size": 9340,
+      "sha256": "e72f1ea998bb9025e858da1b4d1ae7b652b1387ce12bbcbd6c8a07643264eaaa"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m090_event.000",
+      "size": 10600,
+      "sha256": "fcf62ea0561288e25901e9acd51b056b43a7e734b8155e7e1ad46b6be11eaed4"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m100_event.000",
+      "size": 5666,
+      "sha256": "99e37c92d7c532ee065ca6e909b0a155e636ce828b089ea676a41c6cf247ccbc"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m110_event.000",
+      "size": 7006,
+      "sha256": "07e3bfef0b107c0785c466c905439535460c2a820aecc42b916c717a32f14659"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m120_event.000",
+      "size": 6665,
+      "sha256": "1342955572486800c4c1ba177e1a8b5ffac0d83382eabd298de45fb2977d5956"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m130_event.000",
+      "size": 5755,
+      "sha256": "1a6fafa8ec630d9bc97460d54ecb2477fcbee0464112f09ca8985ad8b5d30441"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m140_event.000",
+      "size": 5757,
+      "sha256": "e3d394c524ef425a4313e2481017f0ee407b869129480354dcc69b8e63d58d34"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m150_event.000",
+      "size": 7741,
+      "sha256": "e2e242dcff366376104011802a9a80e0b0dd8426f2e771ff807085726ed51b49"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m160_event.000",
+      "size": 6397,
+      "sha256": "875beb733ff48fb145eb53792634370cf84b1b8e53a9b53fefc3d13a9662e58e"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m170_event.000",
+      "size": 7090,
+      "sha256": "5035a658a75e9825268b8a1bfc45083d824cdb9b8c48cc5ec3c014900d1288f6"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m180_event.000",
+      "size": 7971,
+      "sha256": "9b82659981abe60f56491c6eacac0ea537f4594d3a3e7ddeeb385213602b0984"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m190_event.000",
+      "size": 6758,
+      "sha256": "35495f677fcfbbbdfebd7daf9604859aa495697d945bf59bc840efeeae928ea6"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m200_event.000",
+      "size": 11385,
+      "sha256": "07924481dc4a976b6fd250010f6ea7e7ba074aaaea482d0991fbdbdf85eb24e0"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m210_event.000",
+      "size": 9822,
+      "sha256": "34e1c9bff6fb43d790d7c40a4e06a492d670f5c0ef26e7d000bf931908b5485e"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m220_event.000",
+      "size": 6525,
+      "sha256": "6f916f876e8197c783ee3e2ba4217c2536684fd2a8fbc0d24a3d79c9c7e730b2"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m230_event.000",
+      "size": 4787,
+      "sha256": "7c9194252ab76f7bda9c9491559bd89eabdc18b7c2f1b6c923bc50c7acbd38cd"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m240_event.000",
+      "size": 7966,
+      "sha256": "aa189b2ae95260bf876af442ce2f67874bf49ba24311be8f0d513050e6cc1f50"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m250_event.000",
+      "size": 6158,
+      "sha256": "bda3e162e00440c8fefb03885023d2d64e157050d864c91d006f36ad361b36c5"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m260_event.000",
+      "size": 6150,
+      "sha256": "dd27409d6ce8ba6075b0b051a83b3986e00efd1c90a5df7243c834dbb67b56e2"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m270_event.000",
+      "size": 5230,
+      "sha256": "c83371710a4cd719a3938af72d221773a0ba2240fa63204c9e8c163b00be06af"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m280_event.000",
+      "size": 9126,
+      "sha256": "3ce2754bae4861cb3fdc66ff4d96b2c8e389835c8f6e89d911e5c38b2a9e27bc"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m290_event.000",
+      "size": 6959,
+      "sha256": "ccdd172dc16da8ffa3445d59065b5d9a8f0d26af969cbab9b7d8de5262bf2f63"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m300_event.000",
+      "size": 6561,
+      "sha256": "45669598c093d1dec68622d1625ccd4590115fd589bf2e569289b6af5ccbc424"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m310_event.000",
+      "size": 6742,
+      "sha256": "5f99311cc0c88ddc177c2fb19ba47d575fa3748fcc48641157a522f9a4726f14"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m320_event.000",
+      "size": 8023,
+      "sha256": "463bbe45a255f7634d18cd12e922c91b2c9f3c90688b32978bdf67d3baea2207"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m330_event.000",
+      "size": 5373,
+      "sha256": "09c145bc6d47672b1485918c0bdbc6466c07174f7644a7c20a4b64f69d07c856"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m350_event.000",
+      "size": 6949,
+      "sha256": "e655d5818c3dca22ed107b2eeddd9afbda12340e3aa60fa62506bd7495af7bb0"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m360_event.000",
+      "size": 6290,
+      "sha256": "6697e41cce4d6138b53165ea42b447de7698da55c9c8ba8d177228398b51fb65"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m380_event.000",
+      "size": 9005,
+      "sha256": "15e19fb9f272ad5806a35b5b0c2f6e6eac8f3bbcb4dc28f6fe9da93b267850b5"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m490_event.000",
+      "size": 8677,
+      "sha256": "3d6d99cd4eb03de8c93f02fafc3a5c24d90ea89cdeea4545456cee4c12af230b"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m600_event.000",
+      "size": 2916,
+      "sha256": "75629b60d53cfb04b015d835ccee9019e84447b4a4d2b976132b8e8c93bdd5d7"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m610_event.000",
+      "size": 2916,
+      "sha256": "1c5c08aa6384d54b962298fa4fc238bcd86d1bfca08404c88b1cbaa6a2fc7968"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m620_event.000",
+      "size": 2916,
+      "sha256": "db25a2a005c1fe57f653b5a733cea6e4ea57e8006a065d5ba42d0ed45f7a3e4b"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m630_event.000",
+      "size": 2916,
+      "sha256": "f487769b0730219159733b9ce5bb2726d5699f41554ed587df686a5045d89338"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m640_event.000",
+      "size": 2916,
+      "sha256": "4b8fcc72df11c38aaa020aa1a4a8cc0bfa05a93e2874f436d0fca445707847ec"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m650_event.000",
+      "size": 4160,
+      "sha256": "0eeeb19458737459fab754ab8a6e24af54c208151033c5075a4aa3225287b79b"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m660_event.000",
+      "size": 2916,
+      "sha256": "a9a0c23f37d2e35c3f0acb216a8f2f5b1e24ea6e96fd9f8537e076157574b888"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m670_event.000",
+      "size": 2916,
+      "sha256": "3002e159b98e14b02579fc0bba6219760566dd9824e96c6ee1477ce70239f917"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m680_event.000",
+      "size": 2916,
+      "sha256": "423794fd2ece1e2260b615fa0d4f49be26728884f3eaeeb66636bb944131884a"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m700_event.000",
+      "size": 2916,
+      "sha256": "71a86364003857ae761a3abd7d24dc9cde1ebdfbeedefb5522eb9550c2aa528a"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m710_event.000",
+      "size": 3951,
+      "sha256": "ac3ddfbdff9a214357af0182093a6c686d3fb4f18f119e44d0a64b50950f88df"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m720_event.000",
+      "size": 2916,
+      "sha256": "2b878ac351615e9f8934cef42d250dce90eaedb398c408e2a7a279623be136cc"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/bind/world/m730_event.000",
+      "size": 2916,
+      "sha256": "c236c9b8eb268e3f515e19c6c953309c7d029a37bed67a86d992cd84ff66e40b"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_1.bin",
+      "size": 472,
+      "sha256": "9652c276cb66587169f5cd9ac7a47f16df5916fd77f4e5cf7e8836fc0e7bcb07"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_1_ac1.bin",
+      "size": 476,
+      "sha256": "e0c2191d0ae43478cf5ec88925273182bd7fe99002b7d9f10ea6264de854234d"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_1_ac2.bin",
+      "size": 476,
+      "sha256": "34e324ca615ec79ab8cf0a8834245f08ad560e24cb4dfe383d82c941def83f1a"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_1_ac3.bin",
+      "size": 476,
+      "sha256": "61b62bbe136a96f23eed1fb728b307b4b925a87702bd0b9b13be6783410f4301"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_1_ac4.bin",
+      "size": 476,
+      "sha256": "cebf12493c57c9096b36f84027c1cacd88b098a10eb712616f5af6b11a25a886"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_1_ac5.bin",
+      "size": 476,
+      "sha256": "3ad10f46a60ac5e09d4c04582e0abfd8937ce70c5d91b9199dbd6c5f539d76c4"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_1_ac6.bin",
+      "size": 476,
+      "sha256": "8afa7b24ddb964cd3fa60c684418579da3792bacd34ebe657dc15549d0298429"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_2.bin",
+      "size": 664,
+      "sha256": "8be48832ba97c71f17e268e7004cd83a73f1df028d22a20019dba5c9801698bb"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_2_ac1.bin",
+      "size": 668,
+      "sha256": "6f4b73fa789e7615333991fa149265f6e6c6098122e5545142f203e2b3a3383d"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_2_ac2.bin",
+      "size": 668,
+      "sha256": "302fc807d47335f71c464fae95c31dd7856c936391a9bae1813b57d7c69ba55e"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_2_ac3.bin",
+      "size": 668,
+      "sha256": "0011c183d6843133fc0df08c4c8c6704f9123c085a249614a1aae876fdb8b556"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_2_ac4.bin",
+      "size": 668,
+      "sha256": "d490c53d13e56060365dbc66e8cadf166de599194e3f79aff693c5d54cf9051a"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_2_ac5.bin",
+      "size": 668,
+      "sha256": "12d04e5518d911fc59e6abc7921f69fcb88e8ac7e6cf429a14e3e64c28f54b56"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_2_ac6.bin",
+      "size": 668,
+      "sha256": "44069ea899ae03498c561eb669859247f56606d88a968646f5adf3dfbc7eabc1"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_3.bin",
+      "size": 634,
+      "sha256": "b07c124e641abc2e6f31c0d745cf6b4f5501372fa1374ae4ee5d16e1b4efd6b4"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_4.bin",
+      "size": 703,
+      "sha256": "c5b13f00712818698079584527bb78b6647c43d4a81533f4df9668fa7b6623bf"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_5.bin",
+      "size": 880,
+      "sha256": "7dc2e5bae8cddca8208ef8a1378bd21d6ac0a1d0ecd905b35a920ca5b329abd7"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/chapter_6.bin",
+      "size": 501,
+      "sha256": "1b187d5875a8165cb85e1b5e147cb7f9d38e73e7ce23f8303f6598c1f3eb07ca"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/ending.bin",
+      "size": 363,
+      "sha256": "9c9a25940893e96634ed1d5ede9ca4940ebfd2d21139b5f21feb33db56953615"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m000_b0.bin",
+      "size": 725,
+      "sha256": "7884692ef056abf16b5cfc2b1659a5747440a049432ec3375d077493bb5cfd1d"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m000_d0.bin",
+      "size": 357,
+      "sha256": "41df6db4fc9724782c26b3fac2c77ec7eab7a47f41b23e61192fc2480eea950c"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m010_b0.bin",
+      "size": 605,
+      "sha256": "a02f0362b768b6dbe063e0b66134b2a29a64b2b4571284d72a6b07a7df0cdffb"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m010_d0.bin",
+      "size": 246,
+      "sha256": "c3b974658bf7c3287e7412e8755e4ad3d112d4c186e79f2edd903d05df55cbef"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m020_b0.bin",
+      "size": 538,
+      "sha256": "4a2d37a9cb1e0b0c0d4a4279aeb8329757cf2ce5be4b76baebb53e46086e10c1"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m020_d0.bin",
+      "size": 246,
+      "sha256": "9e32e9dd6934b74a050a3053b8c2461f07e962e4c2e936a1553c3bb5b0261869"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m030_b0.bin",
+      "size": 583,
+      "sha256": "1c6942c24619a4bf52d72347c9fdd2d30cde6c690b28ad0916107d4f17fb6e33"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m030_d0.bin",
+      "size": 348,
+      "sha256": "23d06024ce5c7b51fdea220e6d510ead4a52ae1cb5fe8d4af8bd0f69f1d0af44"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m040_b0.bin",
+      "size": 741,
+      "sha256": "4bbfae67f05b9f60f36ea02c458fb1429c77878180ca1474e29615cedc427779"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m040_d0.bin",
+      "size": 394,
+      "sha256": "f2832871d21609edb882bfd4c2bedd0935c4f3e92d5cf3f97805884f993d9adb"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m051_b0.bin",
+      "size": 518,
+      "sha256": "6eb8c90b61f5a95a712342970e15cc119dc0d5d8c087a063eb2410242b6d565f"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m051_d0.bin",
+      "size": 300,
+      "sha256": "e9e63a463617508a93a69c37ae63d2c5dbd24bb05864f09eb30e875300581cb4"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m070_b0.bin",
+      "size": 471,
+      "sha256": "e52241d1f6af359cc61dbc478564443a3e31580cb1cf4b521d74084681adcb6c"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m070_d0.bin",
+      "size": 246,
+      "sha256": "5cb2aa1c340e1fb9fd79eb4e1c10634f64db16ee2edeac77f88e93d80caea336"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m080_b0.bin",
+      "size": 541,
+      "sha256": "d55297ac88ef6d73de1b61ea588c5f7ff0423e890d4629fbb2a5685a6f23faed"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m080_d0.bin",
+      "size": 246,
+      "sha256": "8aa9558b5024bb5e395022a8152ec7df0ca239f78b053fc4c992161f55b62285"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m090_b0.bin",
+      "size": 699,
+      "sha256": "30a4a078b207d688331945121ebb9f03a6feb0bc0685c97aa7c0315c3313603c"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m090_d0.bin",
+      "size": 242,
+      "sha256": "a2da833deace8898b4e40d6f716ff17e4d187800c4b84b231e36c46e29aa0a31"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m100_b0.bin",
+      "size": 540,
+      "sha256": "0916027ff20d20c908d042c9ab20c72b1602594e88ac7d60b01c5f261e51e254"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m100_d0.bin",
+      "size": 246,
+      "sha256": "2dd8378a23aaebb4e07dd5167606e2897173a5955ac5773e0b9ae88a02821ff2"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m110_b0.bin",
+      "size": 533,
+      "sha256": "4da889af251bc1400a6e8d2bf2d8b245e4417448d7d9cbca7c37d966760275ac"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m110_d0.bin",
+      "size": 242,
+      "sha256": "1433916cec921dbcd3934d8ce3a9d44b86812b784faf9288f8efd69725eb36c4"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m120_b0.bin",
+      "size": 432,
+      "sha256": "a21fa4e648f00b92c75362e4631a31d1860af391ede84547a860f457782068fa"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m120_d0.bin",
+      "size": 242,
+      "sha256": "548eaa33128420a1fe11dfcce1e778a0f0b4368638e45cfa6e73c7d76a322f96"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m130_b0.bin",
+      "size": 513,
+      "sha256": "eafb4e6c21f954ca3e6e4e261eb2534fa42c2709973978b6e7ddfc64463f6af5"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m130_d0.bin",
+      "size": 242,
+      "sha256": "dc79cefa2f9382f6bdc638fb63d4c149a19e5e0b6d4edbfa639e47255a5731eb"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m140_b0.bin",
+      "size": 539,
+      "sha256": "27f274b50ab443c41f0661f8deed21de620ae55243ad27a7a393c5edbfabb6fb"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m140_d0.bin",
+      "size": 242,
+      "sha256": "66821a3f4876987af6c214411522b76d8b7071f2697531f0c5de180e510c7239"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m150_b0.bin",
+      "size": 1280,
+      "sha256": "4d48f1eaf8d9ae7941808a21889f3293f0f5f715ec0f7ef8457442541b20d332"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m150_d0.bin",
+      "size": 843,
+      "sha256": "464b030de2d7962b79a55a66f424c9c55fcaa9a8d1916e3b5cd41b0a87f83090"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m160_b0.bin",
+      "size": 591,
+      "sha256": "636a97173a1a2e18f8af1d6b988e423b084eb6eb7a3c56327ccfc6a340231aee"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m160_d0.bin",
+      "size": 385,
+      "sha256": "e1e1995ed8dcb3b1e9e889216e5d63483d0734eb0a2f059739a7b718d419c843"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m170_b0.bin",
+      "size": 733,
+      "sha256": "ccee01c14c10736519a1992361372dba052075d5cd74e9bc85c9305c4a6644a1"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m170_d0.bin",
+      "size": 327,
+      "sha256": "5676334c7d299f9626102dbab7a77775a2eb2c2093424f1926503576fa0a5168"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m180_b0.bin",
+      "size": 542,
+      "sha256": "8599492dabf303509621a7f84d9239abd8daac584c47748542339ebcb000e4fe"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m180_d0.bin",
+      "size": 242,
+      "sha256": "1ce6b1d664e8488ff9d5ce95b90854083cecccfdacbb61e279fe8c6314a0b640"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m190_b0.bin",
+      "size": 215,
+      "sha256": "c61748eb2476e3b11933b3b155d19cc645bd40d769dc5964740600f864fec1b6"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m190_d0.bin",
+      "size": 455,
+      "sha256": "5dbd549add78cf1e90db102bbb353846ee6493af3ef30063c86a8b007f4e4100"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m200_b0.bin",
+      "size": 664,
+      "sha256": "b5fdeef153f789f2a5828d13b4c68ca1f5b9160fa8c3d62b93a668441636e0d0"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m200_d0.bin",
+      "size": 242,
+      "sha256": "73370d25aa782a1cfaa019e0bb07c28523ef6d7e76dc9e3484fb08a7da395520"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m210_b0.bin",
+      "size": 638,
+      "sha256": "9bc6ee5397f04f470a1add94abede7f39f65eec19e3fe5b223bf4f56d98df62d"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m210_d0.bin",
+      "size": 459,
+      "sha256": "983dc54456ffb4e50a3897378527495b77ceb7577bcbb4b33279b284011b272f"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m220_b0.bin",
+      "size": 544,
+      "sha256": "917ba1f9081b02753a62e45efd35a21c77a06588e8562aa4fb4d12c20f0c36ae"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m220_d0.bin",
+      "size": 505,
+      "sha256": "2962cd8a6046d8cfa381bb3b828279dbdb624eda35f2521237f12698b8532c6c"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m230_b0.bin",
+      "size": 344,
+      "sha256": "0add3bf233f4a97c8e89bb60df8a227682c5a333ddd3ecdb0b96a1185d24446e"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m230_d0.bin",
+      "size": 246,
+      "sha256": "148a9ebdd67e89ea95a4e740e9817102d5319e567b812c1ded2a6b49f4b40794"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m240_b0.bin",
+      "size": 431,
+      "sha256": "fd2d2d4a259179ab9de017bdb0a0d81c70f2b38c4ed3a0fffb51413cce301dc8"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m240_d0.bin",
+      "size": 242,
+      "sha256": "d2b641c695b5a326e82ec767a7da352f9e7617435418c6073ea18c1adf014d27"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m250_b0.bin",
+      "size": 708,
+      "sha256": "c549be3a74fd73e60153052e43e168d647f94277071d0a6eaec3a3e2fea8ce05"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m250_d0.bin",
+      "size": 346,
+      "sha256": "aea41495462b5e3cd477a12fe70d34d294b995fc43f14a4f623ba5e0eb2b13fd"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m260_b0.bin",
+      "size": 512,
+      "sha256": "6a334b23dedc0d57b4e6a6e4ba1e77a183e1e16f7592c885ba982de4616f11e6"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m260_d0.bin",
+      "size": 242,
+      "sha256": "7d4df94d4643e943b1a93cb36b598c05508a20a78b84b954354b967209888701"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m270_b0.bin",
+      "size": 480,
+      "sha256": "47422ce03b0d0dd4d4db73683cecdab29d0acd73cc366c24b37784e469994a70"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m270_d0.bin",
+      "size": 242,
+      "sha256": "9ba8173f56b5c9cbb57f549c96497282e74b0205a43f9376a3629bdafc7fc02c"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m280_b0.bin",
+      "size": 727,
+      "sha256": "3f1b77389fc076597b5722e06bc33b1d3675cba062bdd1eea5a9f782582cc541"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m280_d0.bin",
+      "size": 389,
+      "sha256": "ed2e146a88b4c6a656d5e26e9d51bff53a0bf2871eef4103f55de0c1c3abfb18"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m290_b0.bin",
+      "size": 709,
+      "sha256": "c1413d20b48315d1fec1ad06b3eec78c1b2511bb2da6e53ea8c6d3c3624f4fec"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m290_d0.bin",
+      "size": 420,
+      "sha256": "45d9209ecf9887fd499105c74ca20fcadaf651e0c21648eadc1e2c4b8ea3f9e4"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m300_b0.bin",
+      "size": 548,
+      "sha256": "2202e6b549835b935ecee853537a265106f5612895b0c9cbf0682726c0a505a5"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m300_d0.bin",
+      "size": 523,
+      "sha256": "242494cc272fa5c7f4c4c5e9976c7d73ae6fc42a943bcbb80f4edb7d8ee638c5"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m310_b0.bin",
+      "size": 699,
+      "sha256": "967158e7eb0c1e6a06d03493f3e8db6ea2ccc0c460a9da9452ada362dede21e8"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m310_d0.bin",
+      "size": 382,
+      "sha256": "9410909a83d77c8a99ee1ef9c01d801205a3557775c08487353da7ea23f32438"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m320_b0.bin",
+      "size": 511,
+      "sha256": "df2ee90b73cd5a34308a87659c1534e0ea53eeb3e7ba79be5356323b30c6e654"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m320_d0.bin",
+      "size": 242,
+      "sha256": "f10a6d4adeaaa3e957a3152b24a930d17ae17da43e699a5099713e2c8ff1ba39"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m330_b0.bin",
+      "size": 667,
+      "sha256": "9b63d5da43da78a9d064641446af58b1d711c08e30b4cdf3beb0b1692219fdfc"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m330_d0.bin",
+      "size": 242,
+      "sha256": "8fd9e214455172a744c6fdc636a91cdb116f486c769b0ab217eaf7ed8d34ca53"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m350_b0.bin",
+      "size": 264,
+      "sha256": "38668fbc34fce76f1e58acc6146cfb10adee65e17f3635aab5958e81e5b82bef"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m350_d0.bin",
+      "size": 329,
+      "sha256": "96dbdda3fcab72a42cc3924902fe69e60b6b4049e519d3696a69a8f53172779d"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m360_b0.bin",
+      "size": 724,
+      "sha256": "4514cd6195cdb3c759e24f364a6c512540930d79b89a948bc156cef666833422"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m360_d0.bin",
+      "size": 242,
+      "sha256": "faf458408cbe4f9f659e60161b97e91fff25dfdd07cbf0831b143becea339a79"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m380_b0.bin",
+      "size": 609,
+      "sha256": "65ecf146ae87865963d6084dbdbf37149e31ffb4e28fce34c6dd5356aef54db3"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m380_d0.bin",
+      "size": 242,
+      "sha256": "2656cb39509b72fe924dab53705fc1c10946f988dd34a75eccfb1108a9f9b087"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m490_b0.bin",
+      "size": 312,
+      "sha256": "9fb2fc7a74e97a2dbffd5326f7808793e847520b15efc895454869d519109799"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m490_d0.bin",
+      "size": 125,
+      "sha256": "60012e9faaf34275af937fb2e6f61b86811db8d75f9c91ae998c28197f07f5c0"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m999_b0.bin",
+      "size": 1280,
+      "sha256": "5242389c34eb4e9627c00819a96195dc5d3ca6746fbd58a0303ca578e66187cf"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/briefing/m999_d0.bin",
+      "size": 843,
+      "sha256": "8f9fbef0d151628938c6180540c7b44e7aab71c3757a7c2d8a42864311a81cc6"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_e5/ac4_e5.ccm",
+      "size": 154472,
+      "sha256": "99ae4f55eb23c21202054f9b5a2138a38b3c4bc70b9e6094544973591f243576"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/ac4_j1.ccm",
+      "size": 154472,
+      "sha256": "99ae4f55eb23c21202054f9b5a2138a38b3c4bc70b9e6094544973591f243576"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/ac4_j1/tex/ac4_j10000.tpf",
+      "size": 262272,
+      "sha256": "f7500edf63477b59910f538de4539ea49e4a5d5b5f29fdfb9d2ad1554ca67eff"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/font/fontdef.xml",
+      "size": 1978,
+      "sha256": "8c4ef6630638baab6fb669efee51a40b1cfa4ddb5a75e4c911f6cb93814661d7"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/acsis.drb",
+      "size": 26624,
+      "sha256": "dc47d539562f9b465b7b64d4747bb77f0c0850d3daba54834b2bea4f08768e64"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/actest.drb",
+      "size": 28560,
+      "sha256": "c2a71f66955befa45dfec89ff5b3b04ddd5db6fc5d34acc152eadaaa82adc3e5"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/arena.drb",
+      "size": 53152,
+      "sha256": "863c9c9c50f16ab3f266e10e6350788742136d18520935b9ac44189f8efa44a0"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/assemble.drb",
+      "size": 149712,
+      "sha256": "7a8b866c42c36b3f41bac29fad1f2f35890c163b2210e6022e23bfd2b4c1c988"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/autosave.drb",
+      "size": 1216,
+      "sha256": "5b2fa7adb076e64a5e0158f18c9b6fa191b25358cda588e26d388a97dc203c98"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/debriefing.drb",
+      "size": 15600,
+      "sha256": "a0e20dac46dfdb31974642631069d609dd7178c5d2975debdb79ed790e01ec19"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/design.drb",
+      "size": 47696,
+      "sha256": "8a959dbdfb868b6a2b9475e509c694f902b015d5a4c2877fac549c6249ff74b0"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/garage.drb",
+      "size": 2736,
+      "sha256": "60cd43cc2acc86bf5a6c6dbba8be27288acd3633d182ca362f7d1f6f5478a548"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/match.drb",
+      "size": 139616,
+      "sha256": "41f3a8dd7b853bd0ba4abd70d38eda5c54bca795e91e216c4d09e445fa98a871"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/menusystem.drb",
+      "size": 17344,
+      "sha256": "2a00e3d5fbd903e53fb1c26ccd1f75a7fef95770bafac776cb8ffd4d8b67320e"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/mission.drb",
+      "size": 36288,
+      "sha256": "3b20bfbe338876310f8f12ee4f73be0ef4be0b2c9806531436794652e40f0d46"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/paint.drb",
+      "size": 121856,
+      "sha256": "40e23b9c0fead189f711971298175954a9e7248b8f1f3ef661e6a6d76ed8abee"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/sortie.drb",
+      "size": 38432,
+      "sha256": "d5d451659036e4f91aae5b66a6b37ab348d871ac1f86ca5324eea157d6cbf402"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/systemsetting.drb",
+      "size": 50768,
+      "sha256": "5bb3ad6316f1f7e577fb5997a99dfa5f44c895abfcf31fdfb9e0d5e8170228ce"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/vsresult.drb",
+      "size": 12832,
+      "sha256": "ce261afa95bbb48be86b4769202cad27f4cae7ea19d110317e4052124fd64c0d"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/menu/vssortie.drb",
+      "size": 14016,
+      "sha256": "c5b7e8fa7fe3cbd447245a6a01c6d14332bbfc9caa6f55c8bb2c3dbbab691534"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/param/acparts.bin",
+      "size": 94764,
+      "sha256": "9cacef5c652691c85e086242a0e5eac290fbfae4c58e5243dc6f74cdde96d666"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/param/arenaacinfo.bin",
+      "size": 12545,
+      "sha256": "a17bca66043a5ae9cdf1ca039b0e85c80336c771985e7bd1b70863de7e88718d"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/param/arenadatapack.bin",
+      "size": 1223,
+      "sha256": "3abbc3e6de7f6fd829785e9d7963717e51a7e59b19efe5eab631e1ca2067a0db"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/param/arenamapinfo.bin",
+      "size": 689,
+      "sha256": "f89acd0bceef7088fba7b872e31ff0ee661bc8d7fa59464dbeb6a8e0ab1147a4"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/param/missioninfo.bin",
+      "size": 9514,
+      "sha256": "4e15bbf0c2d5109e147d4131fb53b400f7714e7d892bad290c98397815e5e177"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/param/regulation.bin",
+      "size": 23913,
+      "sha256": "633ca6b24c34fff3e582096bcdd3dd3630be108a6db567895225aa2a7ceefb50"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/param/stabilizer.bin",
+      "size": 33888,
+      "sha256": "90253c9acd16b3a66b4ef710bc1d5bc1ea5276194e87cea8253d8da74d86952a"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/system/keyguide.bin",
+      "size": 11287,
+      "sha256": "4daf0506a47355f074d5340f1e896df2369e6184f834e9387801102ce7186510"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/system/skeyguide.bin",
+      "size": 5924,
+      "sha256": "72cd560ae15eab2c2b48a9e645b45b304ee77387f67b408a63aa7f4caa1425ac"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/menu/dialog.fmg",
+      "size": 16736,
+      "sha256": "cbabb7f0eb3c8a0696d7b8a49e605d546ad222321e6c7e0eda3c94e8cfc674a9"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/menu/menu.fmg",
+      "size": 19776,
+      "sha256": "64b1f3651b5931bb92753e81e51dfe80ad6aa8d61d93b23020360b91660c21ef"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m000.fmg",
+      "size": 4160,
+      "sha256": "7769c563a77c16ab7e155d1de5385f07ec4298bce8d177700ac339a1ef9ffafd"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m010.fmg",
+      "size": 1792,
+      "sha256": "38068fd628f27cd083183e717c3e52bbee4ac4a5b223918b83d24436441016f2"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m020.fmg",
+      "size": 2528,
+      "sha256": "55407880b7eddeb64e26b171ef53d23b9db728163794f74aa6687b7a59393f89"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m030.fmg",
+      "size": 2784,
+      "sha256": "f43918d5d44d0d24cb9b753f39c7215374d0ce175b5fa8cfea83baca31bb3bbb"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m040.fmg",
+      "size": 3744,
+      "sha256": "1db725e7152ece965ece1a8967d288f0e458ca0f4390a0627281da09a4d41e36"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m051.fmg",
+      "size": 3264,
+      "sha256": "0d89a7b3bfecffc87d55fd13c0ad9b3de23d3affeeb1a5f175fd74e11f0a7f43"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m070.fmg",
+      "size": 1312,
+      "sha256": "496717cde05384fd1b9e95c3bfc287a27a105a1a319989bb54864672c8618884"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m080.fmg",
+      "size": 3360,
+      "sha256": "05ace4c9ad3559569cec6d5df5f7b85b8e4ec7c606c4ec835a51188534c49fcb"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m090.fmg",
+      "size": 5664,
+      "sha256": "eba0b21b13b473dec2b601561159551ac3d62866fa206a12816bd7db2446dc55"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m100.fmg",
+      "size": 1184,
+      "sha256": "4d9abf95e94d96160e4753f85dd3b61dfdf58c9810cc624dfdad73499f255854"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m110.fmg",
+      "size": 1600,
+      "sha256": "701cc8a56cdcdd93ca0215917a9a642668ecbae91c1b11f5297e7491b56f9747"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m120.fmg",
+      "size": 1376,
+      "sha256": "3b7568d98464adbc26f3e983dbc5f43abc8a240f6266cbb8359339a20f89cc1a"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m130.fmg",
+      "size": 1376,
+      "sha256": "c31d4f604f839f87dc55fcad4b8748d69e60a542fc4843aedb823aadbdb769c0"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m140.fmg",
+      "size": 1632,
+      "sha256": "b3f636c3356de208ba9f42824cc0155aa3fcd352991b8a6e945143504a39b7f1"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m150.fmg",
+      "size": 1984,
+      "sha256": "607cf1a6be22cd35b12edfab035b258214cbd76e201db6ed9be4b42bdd5e5c9b"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m160.fmg",
+      "size": 1696,
+      "sha256": "0fda08adecf03927f0594f5f0d1aeffe8e07608caf6dd08e2e26c87256759389"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m170.fmg",
+      "size": 3168,
+      "sha256": "1e31e5a89e410fe2d3f3d899368d8b34489f6ed0bfda7bcb370d78847f67b943"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m180.fmg",
+      "size": 1888,
+      "sha256": "0fd8010163dda1536ce0b4b536af096ac9f1fb611e6c74a143b3659dd44077b7"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m190.fmg",
+      "size": 1952,
+      "sha256": "51bc22ea914d52475457440c24641585402727d56cab91f4a3a06b79fa98c3e5"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m200.fmg",
+      "size": 5024,
+      "sha256": "dfeea2f0fd662fca233868e3fa179cc55de0644412e91b6692c5ef4f5ed952dc"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m210.fmg",
+      "size": 4032,
+      "sha256": "324c5eec2bd525aa1525cec5ca82e43aadf39cb6d9efc2a2a6b11621d359078b"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m220.fmg",
+      "size": 1760,
+      "sha256": "4cb70a8e46f7e6f17b1fb4aa68480e81f40466a7767aca680c65aa2a0ce7e8bd"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m230.fmg",
+      "size": 640,
+      "sha256": "8f67a4e21b3881d1ec7d2c0d228015449bb25d503d0d27a50272cce447b22b2c"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m240.fmg",
+      "size": 2368,
+      "sha256": "a81357f899c9da30ee673fc7375bea2b922e9e4db87199538e7a8428c4d280ff"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m250.fmg",
+      "size": 1568,
+      "sha256": "b8be8e8eabeb66255d7d485f403097e7a4c6b70d2847b273e91fb798dd0ae566"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m260.fmg",
+      "size": 896,
+      "sha256": "448497e931fe01de9ade8752c458e2169b977fed728039abb266f4a4b8a5e593"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m270.fmg",
+      "size": 928,
+      "sha256": "3e88698a35bbf2fc5ee19644d9bb72a00976d89d9bfa546ab23dd6070ca5b8f7"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m280.fmg",
+      "size": 4352,
+      "sha256": "61b616f3aa36559b271a0e8186d2bc283abe4cd1b2efddc709d5af62595fe294"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m290.fmg",
+      "size": 1952,
+      "sha256": "5313af5a07d6960c68ecf7178c9bbd4af01bf39d98ffb9590d7ff1953a2821ab"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m300.fmg",
+      "size": 1728,
+      "sha256": "97f8ee646559a4094ef6f1f9289f5d9d6e6ea80637beb05bed4fe95ed1f8fbaa"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m310.fmg",
+      "size": 2976,
+      "sha256": "01210200fdc1c39a914f9db95493469aebaa0804a65afa898391e106c2562364"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m320.fmg",
+      "size": 1888,
+      "sha256": "c5eaa075d04e0a8768c47b4240c9043d0ee2e801bb9eb4ed0f70135a96aa3a3c"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m330.fmg",
+      "size": 992,
+      "sha256": "1a2a133c5e24729d912bb6b241f91f5b6bf67507b8605bdf091514bac52e5e42"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m350.fmg",
+      "size": 2080,
+      "sha256": "9e37d4aa41e73734f81eabbc2786978337d61e1d6b683473c461c553eade1b23"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m360.fmg",
+      "size": 1920,
+      "sha256": "0bb9b47b2e5423b5cc5f76ac47462193476aa0ec44ee6fa2721620e9719196fa"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m380.fmg",
+      "size": 3296,
+      "sha256": "d1c750a256608b676f6e6a2d5aca8803349f4ffbf3cefec2a3568d810007f77f"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m390.fmg",
+      "size": 1152,
+      "sha256": "220431c640460e7efd2834c1df3eb05b7a15f8c915686b3562c11676d91966d1"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m490.fmg",
+      "size": 3520,
+      "sha256": "317a824ae9f4f827914906ff4e6a87576f1765d39a51012d687ad38f5dbdbe7d"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m710.fmg",
+      "size": 448,
+      "sha256": "debaa01ef65c2fd1a4a9b57a6d3fe6fd812f2a5bdd6e388831ff469a9e1addf9"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m711.fmg",
+      "size": 672,
+      "sha256": "53e01a49566a2e280f5bd2b650c0131d5c17c890f384e160c346ee47761d7000"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m712.fmg",
+      "size": 448,
+      "sha256": "bdbdaca5f30a85e5ad7533872d974c24275ee6e2a052464a595f0b7ee63842b2"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m713.fmg",
+      "size": 576,
+      "sha256": "3431b8c5ec5781a390e3b7cedf039c632de7c77c891116d13374d1804936ce8c"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m714.fmg",
+      "size": 928,
+      "sha256": "02a600a0d5a3a61a99e50b903fd9f723102bf61d45531717a2e0aaa918d101bd"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m715.fmg",
+      "size": 928,
+      "sha256": "e464804c4c8c5d5d71f43a7162491f08b8aac023f7f502278f015118a0bbf1e9"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m716.fmg",
+      "size": 544,
+      "sha256": "6782eb879ded813f2b929c55c28d178430655e6442424f897b4494ca0752aaf3"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m717.fmg",
+      "size": 576,
+      "sha256": "0b4efddf4ef0accfa69ec58d8f44f41a34a62aaf1106056917c27b9adb69de55"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m718.fmg",
+      "size": 608,
+      "sha256": "db1b7029a97bb7cf3e37ced1e50a9b45c55907fc513f211492c087c5abb5001b"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/m719.fmg",
+      "size": 384,
+      "sha256": "cc422a2fea369560239d94f1480839a88909c50bc96c7b0bc058dc04d18dbfff"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/mission/missiondefault.fmg",
+      "size": 3712,
+      "sha256": "18291bf6077f467aca7c2423be25e3a7197e38dfc88b105f0ed0e9c47e998f50"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/text/tutorial/tutorial.fmg",
+      "size": 4800,
+      "sha256": "580d67c3fdc2a609989e252ed4cbfb067b401252897211279958d61e5c540341"
+    }
+  ],
+  "runtime_tested": false
+}
