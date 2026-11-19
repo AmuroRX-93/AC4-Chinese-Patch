@@ -1,0 +1,16 @@
+{
+  "release": "2026.11.22-full.1-rc2",
+  "title_id": "BLJM60012",
+  "resource_version": "01.05",
+  "prerelease": true,
+  "content": [
+    "delta.5",
+    "full-loadguard.1-rc2",
+    "native-ui-redraw.2",
+    "local-mission-title.1",
+    "feedback.1-assembly-labels"
+  ],
+  "regulation_versions_preserved": true,
+  "includes_game": false,
+  "runtime_tested_this_build": false
+}

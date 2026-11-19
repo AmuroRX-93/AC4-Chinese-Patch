@@ -1,0 +1,26 @@
+{
+  "validation.json": {
+    "version": "2026.11.22-full.1-rc2",
+    "input_files": 281,
+    "older_program_and_parameter_labels_upgrade": true,
+    "changes": 3,
+    "all_17_latest_loose_resources": true,
+    "all_archive_members_checked_by_installer": true,
+    "regulation_bytes_preserved": true,
+    "repeat_install_no_changes": true,
+    "exact_restore_and_cache": true,
+    "game_launched": false,
+    "platform": "macOS arm64",
+    "original_disc_full_install": "existing delta.5 coverage retained; current test uses registered mixed-version inputs"
+  },
+  "validation-extra.json": {
+    "version": "2026.11.22-full.1-rc2",
+    "update_overlay_same_transaction": true,
+    "mixed_case_paths_and_sidecar_preserved": true,
+    "update_repeat_and_restore": true,
+    "unknown_overlay_before_write_rejected": true,
+    "all_17_deltas_reconstruct_expected_hash": true,
+    "corrupt_delta_preflight_rejected": true,
+    "game_launched": false
+  }
+}

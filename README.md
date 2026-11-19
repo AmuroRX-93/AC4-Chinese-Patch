@@ -1,7 +1,7 @@
 <!-- complete-release-20261119 -->
-## 最新完整累计测试版（2026-11-19）
+## 最新完整累计汉化 11.22 RC2（三平台工具版）
 
-[下载完整累计包 2026.11.19-full.1-rc1](https://github.com/AmuroRX-93/AC4-Chinese-Patch/releases/tag/v2026.11.19-full.1-rc1)
+[下载完整累计包 2026.11.22-full.1-rc2](https://github.com/AmuroRX-93/AC4-Chinese-Patch/releases/tag/v2026.11.22-full.1-rc2)
 
 一个包安装：正式 delta.5 + Normal/202 条说明加载保护及 rc2 更新目录兼容 + 15 张 UI 重绘贴图 + “赴刑进行曲”标题 + 315 槽参数栏文字。保留已有规制与数值，不强制安装 1.60。三平台入口及六套 Python 随包，下载一个平台入口即可自动下载/合并/校验/解压。
 
